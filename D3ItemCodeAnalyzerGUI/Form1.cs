@@ -4950,12 +4950,17 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
             textBox6.Text = item.Hashed;
         }
 
+/*def hashString(s):
+   h = 0
+   for c in s:
+       h = c_uint32((h * 0x21)  + ord(c)).value
+   return h*/
         private string HashItem(string raw)
         {
-            uint h = 0;
+            int h = 0;
             foreach (var cha in raw)
             {
-                h = (h*0x21) + cha;
+                h = (uint)((h*0x21) + cha);
             }
             return h.ToString();
         }
