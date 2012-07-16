@@ -49,6 +49,8 @@ namespace D3ItemCodeAnalyzerGUI
             this.label4 = new System.Windows.Forms.Label();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -89,6 +91,8 @@ namespace D3ItemCodeAnalyzerGUI
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.label8);
+            this.groupBox1.Controls.Add(this.textBox6);
             this.groupBox1.Controls.Add(this.listView1);
             this.groupBox1.Controls.Add(this.label7);
             this.groupBox1.Controls.Add(this.textBox5);
@@ -103,7 +107,7 @@ namespace D3ItemCodeAnalyzerGUI
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Location = new System.Drawing.Point(12, 32);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(560, 218);
+            this.groupBox1.Size = new System.Drawing.Size(560, 248);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Item Stats";
@@ -207,9 +211,26 @@ namespace D3ItemCodeAnalyzerGUI
             this.label3.TabIndex = 4;
             this.label3.Text = "Identified: ";
             // 
+            // textBox6
+            // 
+            this.textBox6.Location = new System.Drawing.Point(147, 218);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.ReadOnly = true;
+            this.textBox6.Size = new System.Drawing.Size(407, 20);
+            this.textBox6.TabIndex = 15;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(6, 221);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(135, 13);
+            this.label8.TabIndex = 16;
+            this.label8.Text = "Item code to paste ingame:";
+            // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(584, 262);
+            this.ClientSize = new System.Drawing.Size(584, 292);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
@@ -241,6 +262,8 @@ namespace D3ItemCodeAnalyzerGUI
         private Label label4;
         private CheckBox checkBox1;
         private Label label3;
+        private Label label8;
+        private TextBox textBox6;
     }
 }
 

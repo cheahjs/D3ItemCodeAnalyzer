@@ -4907,6 +4907,8 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
             var data = raw.Split(':');
             var item = new Item();
             var affixes = data[3].Split(',');
+            Array.Reverse(affixes);
+            data[3] = string.Join(",", affixes);
             item.Affixes = new List<string>();
             foreach (var affix in affixes)
             {
@@ -4922,6 +4924,14 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
             item.Stack = data[12];
             item.Rarity = (ItemRarity) Int32.Parse(data[14]);
             item.Identified = (Int32.Parse(data[9])%2) != 0;
+            var hash_input = "";
+            for (int i = 1; i < 16; i++ )
+            {
+                hash_input += data[i] + ":";
+            }
+            var hash = HashItem(hash_input);
+            data[16] = hash;
+            item.Hashed = string.Join(":", data);
             Update(item);
         }
 
@@ -4937,6 +4947,17 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
             {
                 listView1.Items.Add(affix);
             }
+            textBox6.Text = item.Hashed;
+        }
+
+        private string HashItem(string raw)
+        {
+            uint h = 0;
+            foreach (var cha in raw)
+            {
+                h = (h*0x21) + cha;
+            }
+            return h.ToString();
         }
 
         private void listView1_MouseDoubleClick(object sender, MouseEventArgs e)
@@ -4960,6 +4981,7 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
         public string CurrentDurability;
         public ItemRarity Rarity;
         public string Stack;
+        public string Hashed;
     }
 
     enum ItemRarity
