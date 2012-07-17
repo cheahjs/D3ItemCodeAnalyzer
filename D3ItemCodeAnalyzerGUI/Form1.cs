@@ -4884,11 +4884,11 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
         public Form1()
         {
             InitializeComponent();
-            foreach (var line in Affix.Split(new[] {"\r\n"}, StringSplitOptions.None).Where(line => !string.IsNullOrEmpty(line)))
+            foreach (var line in Affix.Split(new[] {"\n"}, StringSplitOptions.None).Where(line => !string.IsNullOrEmpty(line)))
             {
                 Affixes.Add(line.Split(new[] { ' ' }, 2)[0], line.Split(new[] { ' ' }, 2)[1]);
             }
-            foreach (var line in URLS.Split(new[] { "\r\n" }, StringSplitOptions.None).Where(line => !string.IsNullOrEmpty(line)))
+            foreach (var line in URLS.Split(new[] { "\n" }, StringSplitOptions.None).Where(line => !string.IsNullOrEmpty(line)))
             {
                 URLDict.Add(line.Split(new[] { ' ' }, 2)[1], line.Split(new[] { ' ' }, 2)[0]);
             }
@@ -4905,6 +4905,7 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
         private void Analyse(string raw)
         {
             var data = raw.Split(':');
+            data[0] = "|HItem";
             var item = new Item();
             data[9] = (int.Parse(data[9]) | 0x1).ToString();
             var affixes = data[3].Split(',');
@@ -4932,6 +4933,7 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
             }
             var hash = HashItem(hash_input);
             data[16] = hash;
+            data[17] = string.Format("|h[{{c:{0}}}{1}{{/c}}]|h", GetColour(item.Rarity), item.Name);
             item.Hashed = string.Join(":", data);
             Update(item);
         }
@@ -4970,6 +4972,35 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
                 {
                     Process.Start(url);
                 }
+            }
+        }
+
+        private void textBox6_MouseClick(object sender, MouseEventArgs e)
+        {
+            Clipboard.SetDataObject(textBox6.Text);
+        }
+
+        private static string GetColour(ItemRarity rare)
+        {
+            switch (rare)
+            {
+                case ItemRarity.White:
+                    return "ffffffff";
+                case ItemRarity.Rare_4_affixes:
+                case ItemRarity.Rare_5_affixes:
+                case ItemRarity.Rare_6_affixes:
+                    return "ffffff00";
+                case ItemRarity.LegendarySet_1_affixes:
+                case ItemRarity.LegendarySet_2_affixes:
+                    return "ffbf642f";
+                case ItemRarity.Inferior:
+                    return "ff888888";
+                case ItemRarity.Magic_2_affixes:
+                case ItemRarity.Magic_1_affixes:
+                case ItemRarity.Magic_3_affixes:
+                    return "ff6969ff";
+                default:
+                    return "ffffffff";
             }
         }
     }
