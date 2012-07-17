@@ -4906,6 +4906,7 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
         {
             var data = raw.Split(':');
             var item = new Item();
+            data[9] = (int.Parse(data[9]) | 0x1).ToString();
             var affixes = data[3].Split(',');
             Array.Reverse(affixes);
             data[3] = string.Join(",", affixes);
@@ -4950,17 +4951,12 @@ http://www.d3lexicon.com/affix/of-devastation-4 WeaponHitStun2h 12";
             textBox6.Text = item.Hashed;
         }
 
-/*def hashString(s):
-   h = 0
-   for c in s:
-       h = c_uint32((h * 0x21)  + ord(c)).value
-   return h*/
         private string HashItem(string raw)
         {
-            int h = 0;
+            uint h = 0;
             foreach (var cha in raw)
             {
-                h = (uint)((h*0x21) + cha);
+                h = ((h*0x21) << 32) + cha;
             }
             return h.ToString();
         }
