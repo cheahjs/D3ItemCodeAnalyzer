@@ -1,0 +1,2512 @@
+-2145995947 MinMaxDam 1 Secondary
+-2144486452 Thorns 15 Secondary
+-2138793846 DexInt V Secondary
+-2138183307 MinDam 7 Secondary
+-2135462520 LightningResist 0.1 Legendary
+-2131762116 PoisonD 2 Fast
+-2124005782 DamageBonusPoison 1 Legendary
+-2121970945 Regen 15 Secondary
+-2114783997 Skill_Monk_Wayof100Fists 1
+-2114783996 Skill_Monk_Wayof100Fists 2
+-2114783995 Skill_Monk_Wayof100Fists 3
+-2114783994 Skill_Monk_Wayof100Fists 4
+-2114783993 Skill_Monk_Wayof100Fists 5
+-2114783992 Skill_Monk_Wayof100Fists 6
+-2114783991 Skill_Monk_Wayof100Fists 7
+-2114783990 Skill_Monk_Wayof100Fists 8
+-2107609951 Dex 8 Secondary
+-2106694432 Skill_Wizard_ShockPulse 1
+-2106694431 Skill_Wizard_ShockPulse 2
+-2106694430 Skill_Wizard_ShockPulse 3
+-2106694429 Skill_Wizard_ShockPulse 4
+-2106694428 Skill_Wizard_ShockPulse 5
+-2106694427 Skill_Wizard_ShockPulse 6
+-2106694426 Skill_Wizard_ShockPulse 7
+-2106694425 Skill_Wizard_ShockPulse 8
+-2100110576 DR 2 Secondary
+-2099275863 SpiritHeals 10
+-2092626723 PoisonD 3 Fast
+-2090456320 PrimaryAttribute_Str 5 Legendary
+-2089077377 ArcaneResist III
+-2089063220 ArcaneResist VII
+-2089061042 ArcaneResist XII
+-2088677743 DamageBonusHoly 4 Legendary
+-2082601897 MinDam 10
+-2082601896 MinDam 11
+-2082601895 MinDam 12
+-2082601894 MinDam 13
+-2082601893 MinDam 14
+-2080147913 IntVit VIII Secondary
+-2067035827 DexVit VIII Secondary
+-2064957999 DefenseMissile 10
+-2064957998 DefenseMissile 11
+-2064957997 DefenseMissile 12
+-2060064773 DamageBonusLightning 6 Legendary
+-2059320357 Skill_WitchDoctor_PoisonDart 1
+-2059320356 Skill_WitchDoctor_PoisonDart 2
+-2059320355 Skill_WitchDoctor_PoisonDart 3
+-2059320354 Skill_WitchDoctor_PoisonDart 4
+-2059320353 Skill_WitchDoctor_PoisonDart 5
+-2059320352 Skill_WitchDoctor_PoisonDart 6
+-2059320351 Skill_WitchDoctor_PoisonDart 7
+-2059320350 Skill_WitchDoctor_PoisonDart 8
+-2058758229 Skill_WitchDoctor_ZombieDogs 1
+-2058758228 Skill_WitchDoctor_ZombieDogs 2
+-2058758227 Skill_WitchDoctor_ZombieDogs 3
+-2058758226 Skill_WitchDoctor_ZombieDogs 4
+-2058758225 Skill_WitchDoctor_ZombieDogs 5
+-2058758224 Skill_WitchDoctor_ZombieDogs 6
+-2058758223 Skill_WitchDoctor_ZombieDogs 7
+-2058758222 Skill_WitchDoctor_ZombieDogs 8
+-2054936414 AllStats1H 15 Legendary
+-2053491330 PoisonD 4 Fast
+-2045570321 HitBlind 10
+-2045570320 HitBlind 11
+-2045570319 HitBlind 12
+-2043699329 DamageReductionCold 1
+-2043699328 DamageReductionCold 2
+-2043699327 DamageReductionCold 3
+-2043699326 DamageReductionCold 4
+-2043699325 DamageReductionCold 5
+-2043699324 DamageReductionCold 6
+-2043699323 DamageReductionCold 7
+-2043699322 DamageReductionCold 8
+-2043699321 DamageReductionCold 9
+-2043597633 Kings III Secondary
+-2037686108 MF I Secondary
+-2031143869 Str 11 Secondary
+-2021317378 DamageBonusArcane 3 Legendary
+-2020875089 MaxArcanePower 7 Legendary
+-2019682371 MaxDiscipline 8 Legendary
+-2014355937 PoisonD 5 Fast
+-2012337776 LightningResist II
+-2012337763 LightningResist IV
+-2012337761 LightningResist IX
+-2012337347 LightningResist VI
+-2012337281 LightningResist XI
+-2004947695 Regen 8 Secondary
+-1999096624 IntVit XII Secondary
+-1994776907 StrVit IX Secondary
+-1984446229 Damage 0.3 Legendary
+-1982878566 Superior Armor
+-1982637063 LightningResist III
+-1982622906 LightningResist VII
+-1982620728 LightningResist XII
+-1976254587 Sockets I
+-1976254574 Sockets V
+-1976254572 Sockets X
+-1975220544 PoisonD 6 Fast
+-1970572789 Int 8 Secondary
+-1966072361 MinMaxDam 3 Secondary
+-1958870260 DexInt X Secondary
+-1958259721 MinDam 9 Secondary
+-1955538934 LightningResist 0.3 Legendary
+-1951487918 Regen 10
+-1951487917 Regen 11
+-1951487916 Regen 12
+-1951487915 Regen 13
+-1951487914 Regen 14
+-1951487913 Regen 15
+-1951487912 Regen 16
+-1951487911 Regen 17
+-1951487910 Regen 18
+-1944082196 DamageBonusPoison 3 Legendary
+-1942047359 Regen 17 Secondary
+-1936085151 PoisonD 7 Fast
+-1933662931 Vit 2 Secondary
+-1933191965 DamageReductionFire 1
+-1933191964 DamageReductionFire 2
+-1933191963 DamageReductionFire 3
+-1933191962 DamageReductionFire 4
+-1933191961 DamageReductionFire 5
+-1933191960 DamageReductionFire 6
+-1933191959 DamageReductionFire 7
+-1933191958 DamageReductionFire 8
+-1933191957 DamageReductionFire 9
+-1932769917 Life III Secondary
+-1931540356 MF XI Secondary
+-1920186990 DR 4 Secondary
+-1918141165 Charge I
+-1912297396 Kings VII Secondary
+-1910532734 PrimaryAttribute_Str 7 Legendary
+-1908754157 DamageBonusHoly 6 Legendary
+-1908410994 Sockets Chest III
+-1896949758 PoisonD 8 Fast
+-1887777376 Skill_DemonHunter_Grenades 1
+-1887777375 Skill_DemonHunter_Grenades 2
+-1887777374 Skill_DemonHunter_Grenades 3
+-1887777373 Skill_DemonHunter_Grenades 4
+-1887777372 Skill_DemonHunter_Grenades 5
+-1887777371 Skill_DemonHunter_Grenades 6
+-1887777370 Skill_DemonHunter_Grenades 7
+-1887777369 Skill_DemonHunter_Grenades 8
+-1880309037 Str 2 Secondary
+-1880141187 DamageBonusLightning 8 Legendary
+-1870763435 MinDam 1 Fast
+-1857814365 PoisonD 9 Fast
+-1856705494 Inferior Weapon Dam 0
+-1856705493 Inferior Weapon Dam 1
+-1856705492 Inferior Weapon Dam 2
+-1856705491 Inferior Weapon Dam 3
+-1851220283 Str 13 Secondary
+-1847999495 DamageReductionHoly 1
+-1847999494 DamageReductionHoly 2
+-1847999493 DamageReductionHoly 3
+-1847999492 DamageReductionHoly 4
+-1847999491 DamageReductionHoly 5
+-1847999490 DamageReductionHoly 6
+-1847999489 DamageReductionHoly 7
+-1847999488 DamageReductionHoly 8
+-1847999487 DamageReductionHoly 9
+-1841393792 DamageBonusArcane 5 Legendary
+-1840951503 MaxArcanePower 9 Legendary
+-1831628042 MinDam 2 Fast
+-1823774410 StrInt XII Secondary
+-1823379498 CriticalChance I
+-1823379485 CriticalChance V
+-1820663116 FuryHeals 10
+-1816578285 Life 0.2 Secondary Legendary
+-1805263058 Rain of Gold I
+-1802869037 DefenseMelee 1
+-1802869036 DefenseMelee 2
+-1802869035 DefenseMelee 3
+-1802869034 DefenseMelee 4
+-1802869033 DefenseMelee 5
+-1802869032 DefenseMelee 6
+-1802869031 DefenseMelee 7
+-1802869030 DefenseMelee 8
+-1802869029 DefenseMelee 9
+-1801469680 Life VII Secondary
+-1792492649 MinDam 3 Fast
+-1788670210 HitLife 1 Secondary
+-1786148775 MinMaxDam 5 Secondary
+-1775613346 WeaponHitSlow1h 1
+-1775613345 WeaponHitSlow1h 2
+-1775613344 WeaponHitSlow1h 3
+-1775613343 WeaponHitSlow1h 4
+-1775613342 WeaponHitSlow1h 5
+-1775613341 WeaponHitSlow1h 6
+-1775613340 WeaponHitSlow1h 7
+-1775613339 WeaponHitSlow1h 8
+-1775613338 WeaponHitSlow1h 9
+-1775577409 WeaponHitSlow2h 1
+-1775577408 WeaponHitSlow2h 2
+-1775577407 WeaponHitSlow2h 3
+-1775577406 WeaponHitSlow2h 4
+-1775577405 WeaponHitSlow2h 5
+-1775577404 WeaponHitSlow2h 6
+-1775577403 WeaponHitSlow2h 7
+-1775577402 WeaponHitSlow2h 8
+-1775577401 WeaponHitSlow2h 9
+-1773842368 Powered Armor I
+-1764158610 DamageBonusPoison 5 Legendary
+-1762789227 StrVit XI Secondary
+-1762370496 MinDam 11 Secondary
+-1756042066 Skill_DemonHunter_Chakram 1
+-1756042065 Skill_DemonHunter_Chakram 2
+-1756042064 Skill_DemonHunter_Chakram 3
+-1756042063 Skill_DemonHunter_Chakram 4
+-1756042062 Skill_DemonHunter_Chakram 5
+-1756042061 Skill_DemonHunter_Chakram 6
+-1756042060 Skill_DemonHunter_Chakram 7
+-1756042059 Skill_DemonHunter_Chakram 8
+-1753739345 Vit 4 Secondary
+-1753357256 MinDam 4 Fast
+-1740263404 DR 6 Secondary
+-1734300516 Vit 10 Secondary
+-1730695322 ColdResist 0.1 Legendary
+-1730609148 PrimaryAttribute_Str 9 Legendary
+-1728830571 DamageBonusHoly 8 Legendary
+-1714221863 MinDam 5 Fast
+-1714146132 StrDex II
+-1714146119 StrDex IV
+-1714146117 StrDex IX
+-1714145703 StrDex VI
+-1714145637 StrDex XI
+-1710668760 Skill_Barbarian_Whirlwind 1
+-1710668759 Skill_Barbarian_Whirlwind 2
+-1710668758 Skill_Barbarian_Whirlwind 3
+-1710668757 Skill_Barbarian_Whirlwind 4
+-1710668756 Skill_Barbarian_Whirlwind 5
+-1710668755 Skill_Barbarian_Whirlwind 6
+-1710668754 Skill_Barbarian_Whirlwind 7
+-1710668753 Skill_Barbarian_Whirlwind 8
+-1706427473 Crippling Shot I
+-1704479244 Guardian I
+-1702151079 Skill_Monk_DeadlyReach 1
+-1702151078 Skill_Monk_DeadlyReach 2
+-1702151077 Skill_Monk_DeadlyReach 3
+-1702151076 Skill_Monk_DeadlyReach 4
+-1702151075 Skill_Monk_DeadlyReach 5
+-1702151074 Skill_Monk_DeadlyReach 6
+-1702151073 Skill_Monk_DeadlyReach 7
+-1702151072 Skill_Monk_DeadlyReach 8
+-1700385451 Str 4 Secondary
+-1697134579 DamageBonusArcane 11 Legendary
+-1685987251 ArcaneResist I
+-1685987238 ArcaneResist V
+-1685987236 ArcaneResist X
+-1685752077 DamConversionHeal 10
+-1685752076 DamConversionHeal 11
+-1685752075 DamConversionHeal 12
+-1680663363 ArcaneD 10 Fast
+-1677006694 Focused Mind I
+-1675086470 MinDam 6 Fast
+-1671296697 Str 15 Secondary
+-1661470206 DamageBonusArcane 7 Legendary
+-1653075881 ColdResist III
+-1653061724 ColdResist VII
+-1653059546 ColdResist XII
+-1648110199 FireResist I
+-1648110186 FireResist V
+-1648110184 FireResist X
+-1641527970 ArcaneD 11 Fast
+-1638259419 ColdResist I
+-1638259406 ColdResist V
+-1638259404 ColdResist X
+-1635951077 MinDam 7 Fast
+-1625420711 SpiritHeals 1
+-1625420710 SpiritHeals 2
+-1625420709 SpiritHeals 3
+-1625420708 SpiritHeals 4
+-1625420707 SpiritHeals 5
+-1625420706 SpiritHeals 6
+-1625420705 SpiritHeals 7
+-1625420704 SpiritHeals 8
+-1625420703 SpiritHeals 9
+-1620835717 DexVit IV Secondary
+-1608746624 HitLife 3 Secondary
+-1606225189 MinMaxDam 7 Secondary
+-1604566875 Bleed 10 Secondary
+-1604559965 Kings IV Secondary
+-1604369411 KillLife 1
+-1604369410 KillLife 2
+-1604369409 KillLife 3
+-1604369408 KillLife 4
+-1604369407 KillLife 5
+-1604369406 KillLife 6
+-1604369405 KillLife 7
+-1604369404 KillLife 8
+-1604369403 KillLife 9
+-1602392577 ArcaneD 12 Fast
+-1596815684 MinDam 8 Fast
+-1588784387 SpiritRegen 1
+-1588784386 SpiritRegen 2
+-1588784385 SpiritRegen 3
+-1588784384 SpiritRegen 4
+-1588784383 SpiritRegen 5
+-1588784382 SpiritRegen 6
+-1588784381 SpiritRegen 7
+-1588784380 SpiritRegen 8
+-1588784379 SpiritRegen 9
+-1584235024 DamageBonusPoison 7 Legendary
+-1582446910 MinDam 13 Secondary
+-1574705269 Dex 11 Secondary
+-1574438246 KillMana 1
+-1574438245 KillMana 2
+-1574438244 KillMana 3
+-1574438243 KillMana 4
+-1574438242 KillMana 5
+-1574438241 KillMana 6
+-1574438240 KillMana 7
+-1574438239 KillMana 8
+-1574438238 KillMana 9
+-1573815759 Vit 6 Secondary
+-1572235283 AllStats1H 1 Legendary
+-1565068127 DamageReductionLightning 1
+-1565068126 DamageReductionLightning 2
+-1565068125 DamageReductionLightning 3
+-1565068124 DamageReductionLightning 4
+-1565068123 DamageReductionLightning 5
+-1565068122 DamageReductionLightning 6
+-1565068121 DamageReductionLightning 7
+-1565068120 DamageReductionLightning 8
+-1565068119 DamageReductionLightning 9
+-1565011074 Skill_Monk_CripplingWave 1
+-1565011073 Skill_Monk_CripplingWave 2
+-1565011072 Skill_Monk_CripplingWave 3
+-1565011071 Skill_Monk_CripplingWave 4
+-1565011070 Skill_Monk_CripplingWave 5
+-1565011069 Skill_Monk_CripplingWave 6
+-1565011068 Skill_Monk_CripplingWave 7
+-1565011067 Skill_Monk_CripplingWave 8
+-1563257184 ArcaneD 13 Fast
+-1562113230 DexVit V Secondary
+-1560339818 DR 8 Secondary
+-1560192489 Kings III
+-1560178332 Kings VII
+-1557680291 MinDam 9 Fast
+-1554376930 Vit 12 Secondary
+-1550771736 ColdResist 0.3 Legendary
+-1537699442 Skill_Wizard_RayofFrost 1
+-1537699441 Skill_Wizard_RayofFrost 2
+-1537699440 Skill_Wizard_RayofFrost 3
+-1537699439 Skill_Wizard_RayofFrost 4
+-1537699438 Skill_Wizard_RayofFrost 5
+-1537699437 Skill_Wizard_RayofFrost 6
+-1537699436 Skill_Wizard_RayofFrost 7
+-1537699435 Skill_Wizard_RayofFrost 8
+-1524121791 ArcaneD 14 Fast
+-1521300847 Life VIII
+-1520461865 Str 6 Secondary
+-1518146268 DamageBonusCold 10 Legendary
+-1510128828 DamageVsElite 10 Secondary
+-1507939626 StrInt II
+-1507939613 StrInt IV
+-1507939611 StrInt IX
+-1507939197 StrInt VI
+-1507939131 StrInt XI
+-1481546620 DamageBonusArcane 9 Legendary
+-1468274891 StrInt VIII
+-1461069733 FireD 1
+-1461069732 FireD 2
+-1461069731 FireD 3
+-1461069730 FireD 4
+-1461069729 FireD 5
+-1461069728 FireD 6
+-1461069727 FireD 7
+-1461069726 FireD 8
+-1461069725 FireD 9
+-1457835703 DamageBonusFire 11 Legendary
+-1440912131 DexVit IX Secondary
+-1434016043 Bleed 1 Secondary
+-1431154284 DamageVsElite 1 Secondary
+-1428823038 HitLife 5 Secondary
+-1426301603 MinMaxDam 9 Secondary
+-1424643289 Bleed 12 Secondary
+-1419261702 WeaponHitImmobilize1h 10
+-1419261701 WeaponHitImmobilize1h 11
+-1419261700 WeaponHitImmobilize1h 12
+-1418075781 WeaponHitImmobilize2h 10
+-1418075780 WeaponHitImmobilize2h 11
+-1418075779 WeaponHitImmobilize2h 12
+-1415593161 HitImmobilize 10
+-1415593160 HitImmobilize 11
+-1415593159 HitImmobilize 12
+-1409407349 GoldPickUpRadius 1
+-1409407348 GoldPickUpRadius 2
+-1409407347 GoldPickUpRadius 3
+-1409407346 GoldPickUpRadius 4
+-1409407345 GoldPickUpRadius 5
+-1409407344 GoldPickUpRadius 6
+-1404582963 KillLife 10
+-1404582962 KillLife 11
+-1404582961 KillLife 12
+-1404582960 KillLife 13
+-1404582959 KillLife 14
+-1404311438 DamageBonusPoison 9 Legendary
+-1394781683 Dex 13 Secondary
+-1393892173 Vit 8 Secondary
+-1392311697 AllStats1H 3 Legendary
+-1387621786 MinMaxDam 11 Secondary
+-1385819014 DamageBonusPoison 10 Legendary
+-1385379000 CriticalChance III
+-1385364843 CriticalChance VII
+-1382189644 DexVit X Secondary
+-1374453344 Vit 14 Secondary
+-1374046024 Thorns 2 Secondary
+-1365471283 MF II Secondary
+-1362485177 LightningResist I
+-1362485164 LightningResist V
+-1362485162 LightningResist X
+-1355456724 Skill_Wizard_ArcaneOrb 1
+-1355456723 Skill_Wizard_ArcaneOrb 2
+-1355456722 Skill_Wizard_ArcaneOrb 3
+-1355456721 Skill_Wizard_ArcaneOrb 4
+-1355456720 Skill_Wizard_ArcaneOrb 5
+-1355456719 Skill_Wizard_ArcaneOrb 6
+-1355456718 Skill_Wizard_ArcaneOrb 7
+-1355456717 Skill_Wizard_ArcaneOrb 8
+-1351470183 MaxFury 2 Legendary
+-1349848392 RecognizedPrefix
+-1347446219 Int 11 Secondary
+-1340538279 Str 8 Secondary
+-1338222682 DamageBonusCold 12 Legendary
+-1332991111 Skill_DemonHunter_ElementalArrow 1
+-1332991110 Skill_DemonHunter_ElementalArrow 2
+-1332991109 Skill_DemonHunter_ElementalArrow 3
+-1332991108 Skill_DemonHunter_ElementalArrow 4
+-1332991107 Skill_DemonHunter_ElementalArrow 5
+-1332991106 Skill_DemonHunter_ElementalArrow 6
+-1332991105 Skill_DemonHunter_ElementalArrow 7
+-1332991104 Skill_DemonHunter_ElementalArrow 8
+-1330205242 DamageVsElite 12 Secondary
+-1326263411 PrimaryAttribute_Str 11 Legendary
+-1299215999 CriticalD 0.1 Secondary Legendary
+-1292069147 Dirty Fighting I
+-1275603273 Gold VIII
+-1268813388 AllStats 1 Legendary
+-1256761000 CriticalD I
+-1256760987 CriticalD V
+-1256760985 CriticalD X
+-1254092457 Bleed 3 Secondary
+-1251230698 DamageVsElite 3 Secondary
+-1248899452 HitLife 7 Secondary
+-1243749103 Damage II
+-1243749090 Damage IV
+-1243748674 Damage VI
+-1234392307 Kings I Secondary
+-1228848513 RecognizedSuffix
+-1226015910 Amplify Damage I
+-1224761404 MF VIII
+-1222458671 Life I Secondary
+-1217125170 Skill_Barbarian_Bash 1
+-1217125169 Skill_Barbarian_Bash 2
+-1217125168 Skill_Barbarian_Bash 3
+-1217125167 Skill_Barbarian_Bash 4
+-1217125166 Skill_Barbarian_Bash 5
+-1217125165 Skill_Barbarian_Bash 6
+-1217125164 Skill_Barbarian_Bash 7
+-1217125163 Skill_Barbarian_Bash 8
+-1214858097 Dex 15 Secondary
+-1214251481 HitImmobilize 1
+-1214251480 HitImmobilize 2
+-1214251479 HitImmobilize 3
+-1214251478 HitImmobilize 4
+-1214251477 HitImmobilize 5
+-1214251476 HitImmobilize 6
+-1214251475 HitImmobilize 7
+-1214251474 HitImmobilize 8
+-1214251473 HitImmobilize 9
+-1212388111 AllStats1H 5 Legendary
+-1210749977 Life IV Secondary
+-1208924451 DexVit XI Secondary
+-1207698200 MinMaxDam 13 Secondary
+-1205895428 DamageBonusPoison 12 Legendary
+-1196720154 StrVit II Secondary
+-1194529758 Vit 16 Secondary
+-1194122438 Thorns 4 Secondary
+-1192075499 DamageBonusCold 2 Legendary
+-1190720556 Sockets Helm II
+-1190720543 Sockets Helm IV
+-1188183167 StrDex VI Secondary
+-1177564964 DamageVsMonsterTypeHuman 1
+-1177564963 DamageVsMonsterTypeHuman 2
+-1177564962 DamageVsMonsterTypeHuman 3
+-1177564961 DamageVsMonsterTypeHuman 4
+-1177564960 DamageVsMonsterTypeHuman 5
+-1177564959 DamageVsMonsterTypeHuman 6
+-1177564958 DamageVsMonsterTypeHuman 7
+-1177564957 DamageVsMonsterTypeHuman 8
+-1177564956 DamageVsMonsterTypeHuman 9
+-1176289900 CriticalChance VI Secondary
+-1174673049 WeaponHitFear1h 10
+-1174673048 WeaponHitFear1h 11
+-1174673047 WeaponHitFear1h 12
+-1173487128 WeaponHitFear2h 10
+-1173487127 WeaponHitFear2h 11
+-1173487126 WeaponHitFear2h 12
+-1172921230 WeaponHitBlind1h 10
+-1172921229 WeaponHitBlind1h 11
+-1172921228 WeaponHitBlind1h 12
+-1171735309 WeaponHitBlind2h 10
+-1171735308 WeaponHitBlind2h 11
+-1171735307 WeaponHitBlind2h 12
+-1171546597 MaxFury 4 Legendary
+-1167522633 Int 13 Secondary
+-1164679370 KillLife 11 Secondary
+-1160813507 DexInt I Secondary
+-1153483251 Gold IV Secondary
+-1149999050 CriticalD IV Secondary
+-1146339825 PrimaryAttribute_Str 13 Legendary
+-1144597881 DamageBonusLightning 11 Legendary
+-1127898759 DamageBonusFire 2 Legendary
+-1121260072 StrDex V Secondary
+-1106287064 Skill_WitchDoctor_Firebats 1
+-1106287063 Skill_WitchDoctor_Firebats 2
+-1106287062 Skill_WitchDoctor_Firebats 3
+-1106287061 Skill_WitchDoctor_Firebats 4
+-1106287060 Skill_WitchDoctor_Firebats 5
+-1106287059 Skill_WitchDoctor_Firebats 6
+-1106287058 Skill_WitchDoctor_Firebats 7
+-1106287057 Skill_WitchDoctor_Firebats 8
+-1099325356 Charm I
+-1096375804 FuryHeals 1
+
+-1096375803 FuryHeals 2
+-1096375802 FuryHeals 3
+-1096375801 FuryHeals 4
+-1096375800 FuryHeals 5
+-1096375799 FuryHeals 6
+-1096375798 FuryHeals 7
+-1096375797 FuryHeals 8
+-1096375796 FuryHeals 9
+-1094496993 Rapid Fire I
+-1089954242 Skill_WitchDoctor_FireBomb 1
+-1089954241 Skill_WitchDoctor_FireBomb 2
+-1089954240 Skill_WitchDoctor_FireBomb 3
+-1089954239 Skill_WitchDoctor_FireBomb 4
+-1089954238 Skill_WitchDoctor_FireBomb 5
+-1089954237 Skill_WitchDoctor_FireBomb 6
+-1089954236 Skill_WitchDoctor_FireBomb 7
+-1089954235 Skill_WitchDoctor_FireBomb 8
+-1088889802 AllStats 3 Legendary
+-1078956226 Intidimidate I
+-1076747262 WeaponHitBlind1h 1
+-1076747261 WeaponHitBlind1h 2
+-1076747260 WeaponHitBlind1h 3
+-1076747259 WeaponHitBlind1h 4
+-1076747258 WeaponHitBlind1h 5
+-1076747257 WeaponHitBlind1h 6
+-1076747256 WeaponHitBlind1h 7
+-1076747255 WeaponHitBlind1h 8
+-1076747254 WeaponHitBlind1h 9
+-1076711325 WeaponHitBlind2h 1
+-1076711324 WeaponHitBlind2h 2
+-1076711323 WeaponHitBlind2h 3
+-1076711322 WeaponHitBlind2h 4
+-1076711321 WeaponHitBlind2h 5
+-1076711320 WeaponHitBlind2h 6
+-1076711319 WeaponHitBlind2h 7
+-1076711318 WeaponHitBlind2h 8
+-1076711317 WeaponHitBlind2h 9
+-1075172573 Skill_Monk_WaveofLight 1
+-1075172572 Skill_Monk_WaveofLight 2
+-1075172571 Skill_Monk_WaveofLight 3
+-1075172570 Skill_Monk_WaveofLight 4
+-1075172569 Skill_Monk_WaveofLight 5
+-1075172568 Skill_Monk_WaveofLight 6
+-1075172567 Skill_Monk_WaveofLight 7
+-1075172566 Skill_Monk_WaveofLight 8
+-1074168871 Bleed 5 Secondary
+-1071448695 Guidance I
+-1071307112 DamageVsElite 5 Secondary
+-1068975866 HitLife 9 Secondary
+-1066811484 Block 1 Secondary
+-1063178769 DexVit III
+-1063164612 DexVit VII
+-1063162434 DexVit XII
+-1062339227 MinDam 10 Fast
+-1054095993 ColdD 10
+-1054095992 ColdD 11
+-1054095991 ColdD 12
+-1054095990 ColdD 13
+-1054095989 ColdD 14
+-1051790324 Sockets Belt I
+-1051790311 Sockets Belt V
+-1039471217 IntVit VIII
+-1032464525 AllStats1H 7 Legendary
+-1030826391 Life IX Secondary
+-1023203834 MinDam 11 Fast
+
+-1014198852 Thorns 6 Secondary
+-1014170316 DamageVsMonsterTypeUndead 1
+-1014170315 DamageVsMonsterTypeUndead 2
+-1014170314 DamageVsMonsterTypeUndead 3
+-1014170313 DamageVsMonsterTypeUndead 4
+-1014170312 DamageVsMonsterTypeUndead 5
+-1014170311 DamageVsMonsterTypeUndead 6
+-1014170310 DamageVsMonsterTypeUndead 7
+-1014170309 DamageVsMonsterTypeUndead 8
+-1014170308 DamageVsMonsterTypeUndead 9
+-1012151913 DamageBonusCold 4 Legendary
+-1008238679 LightningD 10
+-1008238678 LightningD 11
+-1008238677 LightningD 12
+-1008238676 LightningD 13
+-1008238675 LightningD 14
+-1005109122 StrVit II
+-1005109109 StrVit IV
+-1005109107 StrVit IX
+-1005108693 StrVit VI
+-1005108627 StrVit XI
+-1002046353 LightningResist VIII
+-995219665 Skill_DemonHunter_Impale 1
+-995219664 Skill_DemonHunter_Impale 2
+-995219663 Skill_DemonHunter_Impale 3
+-995219662 Skill_DemonHunter_Impale 4
+-995219661 Skill_DemonHunter_Impale 5
+-995219660 Skill_DemonHunter_Impale 6
+-995219659 Skill_DemonHunter_Impale 7
+-995219658 Skill_DemonHunter_Impale 8
+-991795643 AllStats 11 Legendary
+-991623011 MaxFury 6 Legendary
+-987599047 Int 15 Secondary
+-984755784 KillLife 13 Secondary
+-984222910 StrInt V Secondary
+-984068441 MinDam 12 Fast
+-979929723 PrimaryAttribute_Dex 2 Legendary
+-976182126 DamageVsMonsterTypeBeast 1
+-976182125 DamageVsMonsterTypeBeast 2
+-976182124 DamageVsMonsterTypeBeast 3
+-976182123 DamageVsMonsterTypeBeast 4
+-976182122 DamageVsMonsterTypeBeast 5
+-976182121 DamageVsMonsterTypeBeast 6
+-976182120 DamageVsMonsterTypeBeast 7
+-976182119 DamageVsMonsterTypeBeast 8
+-976182118 DamageVsMonsterTypeBeast 9
+-973559665 Gold IX Secondary
+-970660885 FireD 10
+-970660884 FireD 11
+-970660883 FireD 12
+-970660882 FireD 13
+-970660881 FireD 14
+-970075464 CriticalD IX Secondary
+-966416239 PrimaryAttribute_Str 15 Legendary
+-965681604 Skill_Barbarian_HotA 1
+-965681603 Skill_Barbarian_HotA 2
+-965681602 Skill_Barbarian_HotA 3
+-965681601 Skill_Barbarian_HotA 4
+-965681600 Skill_Barbarian_HotA 5
+-965681599 Skill_Barbarian_HotA 6
+-965681598 Skill_Barbarian_HotA 7
+-965681597 Skill_Barbarian_HotA 8
+-960924117 StrInt VI Secondary
+-947975173 DamageBonusFire 4 Legendary
+-944933048 MinDam 13 Fast
+-941336486 StrDex X Secondary
+-939099115 DexInt I
+-939099102 DexInt V
+-939099100 DexInt X
+-927134854 Disorient I
+-926180037 PoisonResist I
+-926180024 PoisonResist V
+-926180022 PoisonResist X
+-925499618 DexInt II
+-925499605 DexInt IV
+-925499603 DexInt IX
+-925499189 DexInt VI
+-925499123 DexInt XI
+-923861827 DexVit I
+-923861814 DexVit V
+-923861812 DexVit X
+-922564110 MaxDam 2 Secondary
+-914352370 ResistAll III
+-914338213 ResistAll VII
+-914336035 ResistAll XII
+-908966216 AllStats 5 Legendary
+-906528857 DamageReductionArcane 1
+-906528856 DamageReductionArcane 2
+-906528855 DamageReductionArcane 3
+-906528854 DamageReductionArcane 4
+-906528853 DamageReductionArcane 5
+-906528852 DamageReductionArcane 6
+-906528851 DamageReductionArcane 7
+-906528850 DamageReductionArcane 8
+-906528849 DamageReductionArcane 9
+-905797655 MinDam 14 Fast
+-903243243 DamageReductionPoison 1
+-903243242 DamageReductionPoison 2
+-903243241 DamageReductionPoison 3
+-903243240 DamageReductionPoison 4
+-903243239 DamageReductionPoison 5
+-903243238 DamageReductionPoison 6
+-903243237 DamageReductionPoison 7
+-903243236 DamageReductionPoison 8
+-903243235 DamageReductionPoison 9
+-894245285 Bleed 7 Secondary
+-891383526 DamageVsElite 7 Secondary
+-890277171 SpiritRegen 10
+-887142961 ManaRegen 10
+-886887898 Block 3 Secondary
+-883808802 StrVit XII Secondary
+-869824811 PrimaryAttribute_Dex 11 Legendary
+-868405876 Lower Resist I
+-861511570 Skill_Barbarian_WeaponThrow 1
+-861511569 Skill_Barbarian_WeaponThrow 2
+-861511568 Skill_Barbarian_WeaponThrow 3
+-861511567 Skill_Barbarian_WeaponThrow 4
+-861511566 Skill_Barbarian_WeaponThrow 5
+-861511565 Skill_Barbarian_WeaponThrow 6
+-861511564 Skill_Barbarian_WeaponThrow 7
+-861511563 Skill_Barbarian_WeaponThrow 8
+-857169251 PoisonD 10
+-857169250 PoisonD 11
+-857169249 PoisonD 12
+-857169248 PoisonD 13
+-857169247 PoisonD 14
+-854441143 DamageReductionHoly 10
+-854441142 DamageReductionHoly 11
+-854441141 DamageReductionHoly 12
+-854093758 Skill_Monk_CycloneStrike 1
+-854093757 Skill_Monk_CycloneStrike 2
+-854093756 Skill_Monk_CycloneStrike 3
+-854093755 Skill_Monk_CycloneStrike 4
+-854093754 Skill_Monk_CycloneStrike 5
+-854093753 Skill_Monk_CycloneStrike 6
+-854093752 Skill_Monk_CycloneStrike 7
+-854093751 Skill_Monk_CycloneStrike 8
+-852540939 AllStats1H 9 Legendary
+-846894066 MaxArcanePower 1
+-846894065 MaxArcanePower 2
+-846894064 MaxArcanePower 3
+-846894063 MaxArcanePower 4
+-846894062 MaxArcanePower 5
+-846894061 MaxArcanePower 6
+-846894060 MaxArcanePower 7
+-846894059 MaxArcanePower 8
+-846894058 MaxArcanePower 9
+-843477631 DefenseMissile 1
+-843477630 DefenseMissile 2
+-843477629 DefenseMissile 3
+-843477628 DefenseMissile 4
+-843477627 DefenseMissile 5
+-843477626 DefenseMissile 6
+-843477625 DefenseMissile 7
+-843477624 DefenseMissile 8
+-843477623 DefenseMissile 9
+-842892561 PrimaryAttribute_Int 2 Legendary
+-841152866 CCReduction 0.2 Legendary
+-837734875 KillLife 1 Secondary
+-834275266 Thorns 8 Secondary
+-832228327 DamageBonusCold 6 Legendary
+-816985589 Sockets Helm I
+-816985576 Sockets Helm V
+-814050226 Knight I
+-812845449 ColdD 1
+-812845448 ColdD 2
+-812845447 ColdD 3
+-812845446 ColdD 4
+-812845445 ColdD 5
+-812845444 ColdD 6
+-812845443 ColdD 7
+-812845442 ColdD 8
+-812845441 ColdD 9
+-811872057 AllStats 13 Legendary
+-811699425 MaxFury 8 Legendary
+-805413895 Intervene I
+-804299324 StrInt X Secondary
+-800006137 PrimaryAttribute_Dex 4 Legendary
+-792694289 Haste 2 Secondary
+-792573035 Scavenge I
+-791891826 Sockets II
+-791891813 Sockets IV
+-791891811 Sockets IX
+-791891397 Sockets VI
+-791891331 Sockets XI
+-791891318 Sockets XV
+-789460967 CriticalD 0.1 Legendary
+-783511600 Skill_DemonHunter_EvasiveFire 1
+-783511599 Skill_DemonHunter_EvasiveFire 2
+-783511598 Skill_DemonHunter_EvasiveFire 3
+-783511597 Skill_DemonHunter_EvasiveFire 4
+-783511596 Skill_DemonHunter_EvasiveFire 5
+-783511595 Skill_DemonHunter_EvasiveFire 6
+-783511594 Skill_DemonHunter_EvasiveFire 7
+-783511593 Skill_DemonHunter_EvasiveFire 8
+-768051587 DamageBonusFire 6 Legendary
+-760680002 Onslaught I
+-748387241 Reflect Missiles I
+-742640524 MaxDam 4 Secondary
+-739279646 PhysicalResist 0.2 Legendary
+-733388468 StrDex XII Secondary
+-732247403 StrDex III
+-732233246 StrDex VII
+-732231068 StrDex XII
+-729042630 AllStats 7 Legendary
+-726105986 DexInt XII Secondary
+-724693723 DexVit VIII
+-718070093 Skill_DemonHunter_BolaShot 1
+-718070092 Skill_DemonHunter_BolaShot 2
+-718070091 Skill_DemonHunter_BolaShot 3
+-718070090 Skill_DemonHunter_BolaShot 4
+-718070089 Skill_DemonHunter_BolaShot 5
+-718070088 Skill_DemonHunter_BolaShot 6
+-718070087 Skill_DemonHunter_BolaShot 7
+-718070086 Skill_DemonHunter_BolaShot 8
+-717473313 Forceful Push I
+-714321699 Bleed 9 Secondary
+-711459940 DamageVsElite 9 Secondary
+-706964312 Block 5 Secondary
+-694660064 DR 11 Secondary
+-689901225 PrimaryAttribute_Dex 13 Legendary
+-685810817 HolyD 1 Fast
+-669278121 ArcanePowerOnCrit 1
+-669278120 ArcanePowerOnCrit 2
+-669278119 ArcanePowerOnCrit 3
+-669278118 ArcanePowerOnCrit 4
+-669278117 ArcanePowerOnCrit 5
+-669278116 ArcanePowerOnCrit 6
+-669278115 ArcanePowerOnCrit 7
+-669278114 ArcanePowerOnCrit 8
+-669278113 ArcanePowerOnCrit 9
+-662968975 PrimaryAttribute_Int 4 Legendary
+-662746861 Energy Bomb I
+-658199107 PoisonResist 0.2 Legendary
+-657811289 KillLife 3 Secondary
+-657218538 MF III Secondary
+-652304741 DamageBonusCold 8 Legendary
+-646675424 HolyD 2 Fast
+-642855378 DexVit II Secondary
+-642565761 PrimaryAttribute_Int 11 Legendary
+-639072579 Sockets Helm III
+-631948471 AllStats 15 Legendary
+-626579626 Kings II Secondary
+-624571637 FireResist 0.2 Legendary
+-620082551 PrimaryAttribute_Dex 6 Legendary
+-613608497 HolyD 10 Fast
+-612770703 Haste 4 Secondary
+-611341465 ArcanePowerOnCrit 10
+-609537381 CriticalD 0.3 Legendary
+-607540031 HolyD 3 Fast
+-589858854 Dex 1 Secondary
+-589482147 StrInt VIII Secondary
+-588128001 DamageBonusFire 8 Legendary
+-586399239 Skill_Barbarian_Rend 1
+-586399238 Skill_Barbarian_Rend 2
+-586399237 Skill_Barbarian_Rend 3
+-586399236 Skill_Barbarian_Rend 4
+-586399235 Skill_Barbarian_Rend 5
+-586399234 Skill_Barbarian_Rend 6
+-586399233 Skill_Barbarian_Rend 7
+-586399232 Skill_Barbarian_Rend 8
+-584132891 DexVit I Secondary
+-575785339 IntVit VI Secondary
+-575064451 Bleed 10
+-575064450 Bleed 11
+-575064449 Bleed 12
+-574473104 HolyD 11 Fast
+-568404638 HolyD 4 Fast
+-562716938 MaxDam 6 Secondary
+-556796117 Life 0.2 Legendary
+-553092101 MinMaxDam 1 Fast
+-549119044 AllStats 9 Legendary
+-536624527 FireResist VIII
+-535337711 HolyD 12 Fast
+-532368674 Sockets Shield I
+-532368661 Sockets Shield V
+-529329636 ResistAll I
+-529329623 ResistAll V
+-529329621 ResistAll X
+-529269245 HolyD 5 Fast
+-528858165 MinMaxDam 10 Fast
+-527040726 Block 7 Secondary
+-525984817 ArcaneResist 0.2 Legendary
+-525918301 MF VII Secondary
+-520098995 Sockets Amulet I
+-520098982 Sockets Amulet V
+-514736478 DR 13 Secondary
+-513956708 MinMaxDam 2 Fast
+-512094249 Loyalty I
+-509977639 PrimaryAttribute_Dex 15 Legendary
+-502510711 MaxDam 1
+-502510710 MaxDam 2
+-502510709 MaxDam 3
+-502510708 MaxDam 4
+-502510707 MaxDam 5
+-502510706 MaxDam 6
+-502510705 MaxDam 7
+-502510704 MaxDam 8
+-502510703 MaxDam 9
+-501931274 MaxDiscipline 1 Legendary
+-499170044 PoisonResist II
+-499170031 PoisonResist IV
+-499170029 PoisonResist IX
+-499169615 PoisonResist VI
+-499169549 PoisonResist XI
+-498686399 IntVit III Secondary
+-496202318 HolyD 13 Fast
+-490332350 MaxDam 11 Secondary
+-490133852 HolyD 6 Fast
+-489722772 MinMaxDam 11 Fast
+-489392194 Skill_WitchDoctor_CorpseSpiders 1
+-489392193 Skill_WitchDoctor_CorpseSpiders 2
+-489392192 Skill_WitchDoctor_CorpseSpiders 3
+-489392191 Skill_WitchDoctor_CorpseSpiders 4
+-489392190 Skill_WitchDoctor_CorpseSpiders 5
+-489392189 Skill_WitchDoctor_CorpseSpiders 6
+-489392188 Skill_WitchDoctor_CorpseSpiders 7
+-489392187 Skill_WitchDoctor_CorpseSpiders 8
+-487196598 Regen 1 Secondary
+-483045389 PrimaryAttribute_Int 6 Legendary
+-477887703 KillLife 5 Secondary
+-476716217 DexInt III
+-476702060 DexInt VII
+-476699882 DexInt XII
+-474821315 MinMaxDam 3 Fast
+-474368107 Skill_Monk_LashingTailKick 1
+-474368106 Skill_Monk_LashingTailKick 2
+-474368105 Skill_Monk_LashingTailKick 3
+-474368104 Skill_Monk_LashingTailKick 4
+-474368103 Skill_Monk_LashingTailKick 5
+-474368102 Skill_Monk_LashingTailKick 6
+-474368101 Skill_Monk_LashingTailKick 7
+-474368100 Skill_Monk_LashingTailKick 8
+-467331770 Skill_WitchDoctor_PlagueofToads 1
+-467331769 Skill_WitchDoctor_PlagueofToads 2
+-467331768 Skill_WitchDoctor_PlagueofToads 3
+-467331767 Skill_WitchDoctor_PlagueofToads 4
+-467331766 Skill_WitchDoctor_PlagueofToads 5
+-467331765 Skill_WitchDoctor_PlagueofToads 6
+-467331764 Skill_WitchDoctor_PlagueofToads 7
+-467331763 Skill_WitchDoctor_PlagueofToads 8
+-462642175 PrimaryAttribute_Int 13 Legendary
+-457066925 HolyD 14 Fast
+-456773228 Life 0.3 Secondary Legendary
+-452821692 Int 1 Secondary
+-450998459 HolyD 7 Fast
+-450587379 MinMaxDam 12 Fast
+-446811769 Thorns 10 Secondary
+-446314849 DamageBonusHoly 11 Legendary
+-444399684 Skill_Barbarian_Revenge 1
+-444399683 Skill_Barbarian_Revenge 2
+-444399682 Skill_Barbarian_Revenge 3
+-444399681 Skill_Barbarian_Revenge 4
+-444399680 Skill_Barbarian_Revenge 5
+-444399679 Skill_Barbarian_Revenge 6
+-444399678 Skill_Barbarian_Revenge 7
+-444399677 Skill_Barbarian_Revenge 8
+-440508624 MinDam 2 Secondary
+-440158965 PrimaryAttribute_Dex 8 Legendary
+-435685922 MinMaxDam 4 Fast
+-434632372 Poison Arrow I
+-432847117 Haste 6 Secondary
+-430720647 FireD 10 Fast
+-427013688 CriticalD VIII Secondary
+-424296262 Regen 10 Secondary
+-423252498 HitLife 10 Secondary
+-422669114 DexVit II
+-422669101 DexVit IV
+-422669099 DexVit IX
+-422668685 DexVit VI
+-422668619 DexVit XI
+-416854518 KillMana 10
+-416854517 KillMana 11
+-416854516 KillMana 12
+-411863066 HolyD 8 Fast
+-411451986 MinMaxDam 13 Fast
+-409935268 Dex 3 Secondary
+-407542294 StrVit V Secondary
+-407059341 DexInt VI Secondary
+-400894308 Skill_WitchDoctor_LocustSwarm 1
+-400894307 Skill_WitchDoctor_LocustSwarm 2
+-400894306 Skill_WitchDoctor_LocustSwarm 3
+-400894305 Skill_WitchDoctor_LocustSwarm 4
+-400894304 Skill_WitchDoctor_LocustSwarm 5
+-400894303 Skill_WitchDoctor_LocustSwarm 6
+-400894302 Skill_WitchDoctor_LocustSwarm 7
+-400894301 Skill_WitchDoctor_LocustSwarm 8
+-396550529 MinMaxDam 5 Fast
+-391585254 FireD 11 Fast
+-388296953 Sockets Shield II
+-388296940 Sockets Shield IV
+-387046238 Anatomy I
+-382793352 MaxDam 8 Secondary
+-372727673 HolyD 9 Fast
+-372316593 MinMaxDam 14 Fast
+-367386162 IntVit VII Secondary
+-362626377 Sockets III
+-362612220 Sockets VII
+-362610042 Sockets XII
+-362610029 Sockets XIV
+-362609613 Sockets XVI
+-362390090 DamageBonusLightning 1 Legendary
+-357415136 MinMaxDam 6 Fast
+-357261731 AllStats1H 10 Legendary
+-352449861 FireD 12 Fast
+-349342219 Sockets Belt II
+-349342206 Sockets Belt IV
+-347117140 Block 9 Secondary
+-346524133 Skill_Wizard_EnergyTwister 1
+-346524132 Skill_Wizard_EnergyTwister 2
+-346524131 Skill_Wizard_EnergyTwister 3
+-346524130 Skill_Wizard_EnergyTwister 4
+-346524129 Skill_Wizard_EnergyTwister 5
+-346524128 Skill_Wizard_EnergyTwister 6
+-346524127 Skill_Wizard_EnergyTwister 7
+-346524126 Skill_Wizard_EnergyTwister 8
+-334812892 DR 15 Secondary
+-324328061 Inspire I
+-323364185 StrInt III Secondary
+-323200406 MaxArcanePower 2 Legendary
+-322007688 MaxDiscipline 3 Legendary
+-318279743 MinMaxDam 7 Fast
+-313314468 FireD 13 Fast
+-310408764 MaxDam 13 Secondary
+-307273012 Regen 3 Secondary
+-303121803 PrimaryAttribute_Int 8 Legendary
+-297964117 KillLife 7 Secondary
+-288008699 ResistAll II
+-288008686 ResistAll IV
+-288008684 ResistAll IX
+-288008270 ResistAll VI
+-288008204 ResistAll XI
+-283720570 HitLife 10
+-283720569 HitLife 11
+-283720568 HitLife 12
+-283720567 HitLife 13
+-283720566 HitLife 14
+-283685984 Skill_DemonHunter_Multishot 1
+-283685983 Skill_DemonHunter_Multishot 2
+-283685982 Skill_DemonHunter_Multishot 3
+-283685981 Skill_DemonHunter_Multishot 4
+-283685980 Skill_DemonHunter_Multishot 5
+-283685979 Skill_DemonHunter_Multishot 6
+-283685978 Skill_DemonHunter_Multishot 7
+-283685977 Skill_DemonHunter_Multishot 8
+-282718589 PrimaryAttribute_Int 15 Legendary
+-280637813 DamageVsMonsterTypeBeast 0.1 Legendary
+-279144350 MinMaxDam 8 Fast
+-274179075 FireD 14 Fast
+-272898106 Int 3 Secondary
+-266888183 Thorns 12 Secondary
+-261830947 ResistAll 0.1 Legendary
+-260585038 MinDam 4 Secondary
+-257301022 Dex 10
+-257301021 Dex 11
+-257301020 Dex 12
+-257301019 Dex 13
+-257301018 Dex 14
+-257301017 Dex 15
+-257301016 Dex 16
+-252923531 Haste 8 Secondary
+-251315149 Charged Bolt Cast I
+-250946460 CCReduction 1
+-250946459 CCReduction 2
+-250946458 CCReduction 3
+-250946457 CCReduction 4
+-250946456 CCReduction 5
+-250946455 CCReduction 6
+-246340211 CriticalD V Secondary
+-244372676 Regen 12 Secondary
+-243328912 HitLife 12 Secondary
+-240008957 MinMaxDam 9 Fast
+-234397216 WeaponHitKnockback1h 1
+-234397215 WeaponHitKnockback1h 2
+-234397214 WeaponHitKnockback1h 3
+-234397213 WeaponHitKnockback1h 4
+-234397212 WeaponHitKnockback1h 5
+-234397211 WeaponHitKnockback1h 6
+-234397210 WeaponHitKnockback1h 7
+-234397209 WeaponHitKnockback1h 8
+-234397208 WeaponHitKnockback1h 9
+-234361279 WeaponHitKnockback2h 1
+-234361278 WeaponHitKnockback2h 2
+-234361277 WeaponHitKnockback2h 3
+-234361276 WeaponHitKnockback2h 4
+-234361275 WeaponHitKnockback2h 5
+-234361274 WeaponHitKnockback2h 6
+-234361273 WeaponHitKnockback2h 7
+-234361272 WeaponHitKnockback2h 8
+-234361271 WeaponHitKnockback2h 9
+-232769638 Life II Secondary
+-230011682 Dex 5 Secondary
+-227618708 StrVit X Secondary
+-219609419 ArcaneResist VIII
+-212858051 PrimaryAttribute_Str 2 Legendary
+-211079474 DamageBonusHoly 1 Legendary
+-204938100 DamageVsMonsterTypeHuman 10
+-204938099 DamageVsMonsterTypeHuman 11
+-204938098 DamageVsMonsterTypeHuman 12
+-192137505 HitBlind 1
+-192137504 HitBlind 2
+-192137503 HitBlind 3
+-192137502 HitBlind 4
+-192137501 HitBlind 5
+-192137500 HitBlind 6
+-192137499 HitBlind 7
+-192137498 HitBlind 8
+-192137497 HitBlind 9
+-192063948 StrInt VII Secondary
+-182466504 DamageBonusLightning 3 Legendary
+-178964486 ResistStunRootFreeze 1
+-177338145 AllStats1H 12 Legendary
+-175502912 Gold II Secondary
+-172018711 CriticalD II Secondary
+-167803620 Skill_DemonHunter_EntanglingShot 1
+-167803619 Skill_DemonHunter_EntanglingShot 2
+-167803618 Skill_DemonHunter_EntanglingShot 3
+-167803617 Skill_DemonHunter_EntanglingShot 4
+-167803616 Skill_DemonHunter_EntanglingShot 5
+-167803615 Skill_DemonHunter_EntanglingShot 6
+-167803614 Skill_DemonHunter_EntanglingShot 7
+-167803613 Skill_DemonHunter_EntanglingShot 8
+-154889306 DR 17 Secondary
+-143279733 StrDex I Secondary
+-143276820 MaxArcanePower 4 Legendary
+-142084102 MaxDiscipline 5 Legendary
+-140235601 ArcaneD 10
+-140235600 ArcaneD 11
+-140235599 ArcaneD 12
+-140235598 ArcaneD 13
+-140235597 ArcaneD 14
+-134342887 Skill_Barbarian_Overpower 1
+-134342886 Skill_Barbarian_Overpower 2
+-134342885 Skill_Barbarian_Overpower 3
+-134342884 Skill_Barbarian_Overpower 4
+-134342883 Skill_Barbarian_Overpower 5
+-134342882 Skill_Barbarian_Overpower 6
+-134342881 Skill_Barbarian_Overpower 7
+-134342880 Skill_Barbarian_Overpower 8
+-128393329 Gold I
+-128393316 Gold V
+-128393314 Gold X
+-127349426 Regen 5 Secondary
+-124762894 Superior Weapon MaxDmg 1
+-124762893 Superior Weapon MaxDmg 2
+-124762892 Superior Weapon MaxDmg 3
+-124762891 Superior Weapon MaxDmg 4
+-124762890 Superior Weapon MaxDmg 5
+-124762889 Superior Weapon MaxDmg 6
+-118040531 KillLife 9 Secondary
+-108389852 ResistAll VIII
+-107640591 DamageReductionLightning 10
+-107640590 DamageReductionLightning 11
+-107640589 DamageReductionLightning 12
+-105644907 ColdD 10 Fast
+-101503741 Heal I
+-97081027 Sockets Bracer II
+-97081014 Sockets Bracer IV
+-92974520 Int 5 Secondary
+-86964597 Thorns 14 Secondary
+-82999401 HitFreeze 1
+-82999400 HitFreeze 2
+-82999399 HitFreeze 3
+-82999398 HitFreeze 4
+-82999397 HitFreeze 5
+-82999396 HitFreeze 6
+-82999395 HitFreeze 7
+-82999394 HitFreeze 8
+-82999393 HitFreeze 9
+-81907361 ResistAll 0.3 Legendary
+-80661452 MinDam 6 Secondary
+-79695477 CriticalChance V Secondary
+-66509514 ColdD 11 Fast
+-66416625 CriticalD X Secondary
+-65018252 Power Shot I
+-64449090 Regen 14 Secondary
+-63405326 HitLife 14 Secondary
+-51094516 Int 10
+-51094515 Int 11
+-51094514 Int 12
+-51094513 Int 13
+-51094512 Int 14
+-51094511 Int 15
+-51094510 Int 16
+-50088096 Dex 7 Secondary
+-42967959 Gold III Secondary
+-42588721 DR 1 Secondary
+-41981185 CriticalChance II
+-41981172 CriticalChance IV
+-41981170 CriticalChance IX
+-41980756 CriticalChance VI
+-32934465 PrimaryAttribute_Str 4 Legendary
+-31155888 DamageBonusHoly 3 Legendary
+-27374121 ColdD 12 Fast
+-24567465 Skill_Monk_ExplodingPalm 1
+-24567464 Skill_Monk_ExplodingPalm 2
+-24567463 Skill_Monk_ExplodingPalm 3
+-24567462 Skill_Monk_ExplodingPalm 4
+-24567461 Skill_Monk_ExplodingPalm 5
+-24567460 Skill_Monk_ExplodingPalm 6
+-24567459 Skill_Monk_ExplodingPalm 7
+-24567458 Skill_Monk_ExplodingPalm 8
+-20084219 Superior Weapon Speed 1
+-20084218 Superior Weapon Speed 2
+-20084217 Superior Weapon Speed 3
+-20084216 Superior Weapon Speed 4
+-20084215 Superior Weapon Speed 5
+-20084214 Superior Weapon Speed 6
+-20018901 MaxDiscipline 10
+-6242571 StrInt I Secondary
+-2542918 DamageBonusLightning 5 Legendary
+211196 DamReductionVsElite 10
+211197 DamReductionVsElite 11
+211198 DamReductionVsElite 12
+2585441 AllStats1H 14 Legendary
+3718951 DR 1
+3718952 DR 2
+3718953 DR 3
+3718954 DR 4
+3718955 DR 5
+3718956 DR 6
+3718957 DR 7
+3718958 DR 8
+3718959 DR 9
+4029372 MF I
+4029385 MF V
+4029387 MF X
+11761272 ColdD 13 Fast
+16602454 Sockets Amulet II
+16602467 Sockets Amulet IV
+25034280 DR 19 Secondary
+26377986 Str 10 Secondary
+29193161 Skill_DemonHunter_HungeringArrow 1
+29193162 Skill_DemonHunter_HungeringArrow 2
+29193163 Skill_DemonHunter_HungeringArrow 3
+29193164 Skill_DemonHunter_HungeringArrow 4
+29193165 Skill_DemonHunter_HungeringArrow 5
+29193166 Skill_DemonHunter_HungeringArrow 6
+29193167 Skill_DemonHunter_HungeringArrow 7
+29193168 Skill_DemonHunter_HungeringArrow 8
+35341959 Skill_Monk_TempestRush 1
+35341960 Skill_Monk_TempestRush 2
+35341961 Skill_Monk_TempestRush 3
+35341962 Skill_Monk_TempestRush 4
+35341963 Skill_Monk_TempestRush 5
+35341964 Skill_Monk_TempestRush 6
+35341965 Skill_Monk_TempestRush 7
+35341966 Skill_Monk_TempestRush 8
+36204477 DamageBonusArcane 2 Legendary
+36646766 MaxArcanePower 6 Legendary
+37839484 MaxDiscipline 7 Legendary
+42416609 StrDex IV Secondary
+50896665 ColdD 14 Fast
+52574160 Regen 7 Secondary
+54309876 CriticalChance IV Secondary
+57987544 Gold II
+57987557 Gold IV
+57987559 Gold IX
+57987973 Gold VI
+59953577 Life I
+59953590 Life V
+60589058 CriticalD 0.2 Secondary Legendary
+71102544 Sockets Shield III
+72010674 CriticalD III Secondary
+73075626 Damage 0.2 Legendary
+73658719 Gold VIII Secondary
+77013533 Decoy I
+86116171 Skill_Wizard_Meteor 1
+86116172 Skill_Wizard_Meteor 2
+86116173 Skill_Wizard_Meteor 3
+86116174 Skill_Wizard_Meteor 4
+86116175 Skill_Wizard_Meteor 5
+86116176 Skill_Wizard_Meteor 6
+86116177 Skill_Wizard_Meteor 7
+86116178 Skill_Wizard_Meteor 8
+86949066 Int 7 Secondary
+88332278 Gold VII Secondary
+91449494 MinMaxDam 2 Secondary
+93022382 MF III
+93036539 MF VII
+99262134 MinDam 8 Secondary
+101982921 LightningResist 0.2 Legendary
+113439659 DamageBonusPoison 2 Legendary
+115474496 Regen 16 Secondary
+122353522 Dex 1
+122353523 Dex 2
+122353524 Dex 3
+122353525 Dex 4
+122353526 Dex 5
+122353527 Dex 6
+122353528 Dex 7
+122353529 Dex 8
+122353530 Dex 9
+122725431 DR 10
+122725432 DR 11
+122725433 DR 12
+122725434 DR 13
+122725435 DR 14
+122725436 DR 15
+122725437 DR 16
+122725438 DR 17
+122725439 DR 18
+122725440 DR 19
+123858924 Vit 1 Secondary
+125900959 ArcaneD 1
+125900960 ArcaneD 2
+125900961 ArcaneD 3
+125900962 ArcaneD 4
+125900963 ArcaneD 5
+125900964 ArcaneD 6
+125900965 ArcaneD 7
+125900966 ArcaneD 8
+125900967 ArcaneD 9
+128602204 Int 1
+128602205 Int 2
+128602206 Int 3
+128602207 Int 4
+128602208 Int 5
+128602209 Int 6
+128602210 Int 7
+128602211 Int 8
+128602212 Int 9
+129835490 Dex 9 Secondary
+132969381 MF II
+132969394 MF IV
+132969396 MF IX
+132969810 MF VI
+132969876 MF XI
+137334865 DR 3 Secondary
+138948793 REQ 1
+138948794 REQ 2
+138948795 REQ 3
+138948796 REQ 4
+138948797 REQ 5
+138948798 REQ 6
+138948799 REQ 7
+138948800 REQ 8
+138948801 REQ 9
+139520518 Run 1
+139520519 Run 2
+139520520 Run 3
+139520521 Run 4
+139520522 Run 5
+140674858 Str 1
+140674859 Str 2
+140674860 Str 3
+140674861 Str 4
+140674862 Str 5
+140674863 Str 6
+140674864 Str 7
+140674865 Str 8
+140674866 Str 9
+143839492 Vit 1
+143839493 Vit 2
+143839494 Vit 3
+143839495 Vit 4
+143839496 Vit 5
+143839497 Vit 6
+143839498 Vit 7
+143839499 Vit 8
+143839500 Vit 9
+145064108 DamageVsElite 1
+145064109 DamageVsElite 2
+145064110 DamageVsElite 3
+145064111 DamageVsElite 4
+145064112 DamageVsElite 5
+145064113 DamageVsElite 6
+145064114 DamageVsElite 7
+145064115 DamageVsElite 8
+145064116 DamageVsElite 9
+146989121 PrimaryAttribute_Str 6 Legendary
+148767698 DamageBonusHoly 5 Legendary
+149318839 DamageReductionArcane 10
+149318840 DamageReductionArcane 11
+149318841 DamageReductionArcane 12
+177212818 Str 1 Secondary
+177380668 DamageBonusLightning 7 Legendary
+182509027 AllStats1H 16 Legendary
+190334883 WeaponHitStun1h 1
+190334884 WeaponHitStun1h 2
+190334885 WeaponHitStun1h 3
+190334886 WeaponHitStun1h 4
+190334887 WeaponHitStun1h 5
+190334888 WeaponHitStun1h 6
+190334889 WeaponHitStun1h 7
+190334890 WeaponHitStun1h 8
+190334891 WeaponHitStun1h 9
+190370820 WeaponHitStun2h 1
+190370821 WeaponHitStun2h 2
+190370822 WeaponHitStun2h 3
+190370823 WeaponHitStun2h 4
+190370824 WeaponHitStun2h 5
+190370825 WeaponHitStun2h 6
+190370826 WeaponHitStun2h 7
+190370827 WeaponHitStun2h 8
+190370828 WeaponHitStun2h 9
+196995670 ArcaneResist II
+196995683 ArcaneResist IV
+196995685 ArcaneResist IX
+196996099 ArcaneResist VI
+196996165 ArcaneResist XI
+203310911 CriticalD VII Secondary
+206301572 Str 12 Secondary
+213859622 DexVit XII Secondary
+216128063 DamageBonusArcane 4 Legendary
+216570352 MaxArcanePower 8 Legendary
+217763070 MaxDiscipline 9 Legendary
+222340195 StrDex IX Secondary
+232497746 Regen 9 Secondary
+234233462 CriticalChance IX Secondary
+234326221 PoisonD 1
+234326222 PoisonD 2
+234326223 PoisonD 3
+234326224 PoisonD 4
+234326225 PoisonD 5
+234326226 PoisonD 6
+234326227 PoisonD 7
+234326228 PoisonD 8
+234326229 PoisonD 9
+234554942 Inferior Armor Def 0
+234554943 Inferior Armor Def 1
+234554944 Inferior Armor Def 2
+234554945 Inferior Armor Def 3
+257744101 DamageReductionPoison 10
+257744102 DamageReductionPoison 11
+257744103 DamageReductionPoison 12
+266872652 Int 9 Secondary
+269675659 StrInt IV Secondary
+271373080 MinMaxDam 4 Secondary
+272282932 HitFear 1
+272282933 HitFear 2
+272282934 HitFear 3
+272282935 HitFear 4
+272282936 HitFear 5
+272282937 HitFear 6
+272282938 HitFear 7
+272282939 HitFear 8
+272282940 HitFear 9
+275241175 Skill_Wizard_ArcaneTorrent 1
+275241176 Skill_Wizard_ArcaneTorrent 2
+275241177 Skill_Wizard_ArcaneTorrent 3
+275241178 Skill_Wizard_ArcaneTorrent 4
+275241179 Skill_Wizard_ArcaneTorrent 5
+275241180 Skill_Wizard_ArcaneTorrent 6
+275241181 Skill_Wizard_ArcaneTorrent 7
+275241182 Skill_Wizard_ArcaneTorrent 8
+290342921 REQ 10
+290342922 REQ 11
+290342923 REQ 12
+290342924 REQ 13
+290342925 REQ 14
+290342926 REQ 15
+290342927 REQ 16
+290342928 REQ 17
+290342929 REQ 18
+290342930 REQ 19
+293363245 DamageBonusPoison 4 Legendary
+295151359 MinDam 10 Secondary
+295346955 HitSlow 10
+295346956 HitSlow 11
+295346957 HitSlow 12
+295398082 Regen 18 Secondary
+296723815 IntVit I
+296723828 IntVit V
+296723830 IntVit X
+298027927 CriticalChance 0.1 Legendary
+303782510 Vit 3 Secondary
+313317262 Skill_Barbarian_Frenzy 1
+313317263 Skill_Barbarian_Frenzy 2
+313317264 Skill_Barbarian_Frenzy 3
+313317265 Skill_Barbarian_Frenzy 4
+313317266 Skill_Barbarian_Frenzy 5
+313317267 Skill_Barbarian_Frenzy 6
+313317268 Skill_Barbarian_Frenzy 7
+313317269 Skill_Barbarian_Frenzy 8
+317258451 DR 5 Secondary
+320616436 Superior Weapon 1
+320616437 Superior Weapon 2
+320616438 Superior Weapon 3
+320616439 Superior Weapon 4
+320616440 Superior Weapon 5
+320616441 Superior Weapon 6
+320616442 Superior Weapon 7
+320765836 Defense II
+320765849 Defense IV
+320766265 Defense VI
+326912707 PrimaryAttribute_Str 8 Legendary
+328691284 DamageBonusHoly 7 Legendary
+332620933 Sockets Chest II
+332620946 Sockets Chest IV
+338507747 StrDex I
+338507760 StrDex V
+338507762 StrDex X
+344756429 StrInt I
+344756442 StrInt V
+344756444 StrInt X
+347303066 Str 10
+347303067 Str 11
+347303068 Str 12
+347303069 Str 13
+347303070 Str 14
+347303071 Str 15
+347303072 Str 16
+357136404 Str 3 Secondary
+357304254 DamageBonusLightning 9 Legendary
+359412638 Skill_Wizard_Electrocute 1
+359412639 Skill_Wizard_Electrocute 2
+359412640 Skill_Wizard_Electrocute 3
+359412641 Skill_Wizard_Electrocute 4
+359412642 Skill_Wizard_Electrocute 5
+359412643 Skill_Wizard_Electrocute 6
+359412644 Skill_Wizard_Electrocute 7
+359412645 Skill_Wizard_Electrocute 8
+359993717 StrVit I
+359993730 StrVit V
+359993732 StrVit X
+360387276 DamageBonusArcane 10 Legendary
+364611845 StrVit VIII Secondary
+381047567 ResistRoot 1
+386225158 Str 14 Secondary
+395402212 HitFear 10
+395402213 HitFear 11
+395402214 HitFear 12
+396051649 DamageBonusArcane 6 Legendary
+404970487 LightningD 10 Fast
+411344938 HealthGlobeChance I
+426321653 ResistStun 1
+426603890 Vanish I
+442649720 Skill_WitchDoctor_Haunt 1
+442649721 Skill_WitchDoctor_Haunt 2
+442649722 Skill_WitchDoctor_Haunt 3
+442649723 Skill_WitchDoctor_Haunt 4
+442649724 Skill_WitchDoctor_Haunt 5
+442649725 Skill_WitchDoctor_Haunt 6
+442649726 Skill_WitchDoctor_Haunt 7
+442649727 Skill_WitchDoctor_Haunt 8
+444105880 LightningD 11 Fast
+448775231 HitLife 2 Secondary
+449599245 StrInt IX Secondary
+451296666 MinMaxDam 6 Secondary
+451735988 Vit 10
+451735989 Vit 11
+451735990 Vit 12
+451735991 Vit 13
+451735992 Vit 14
+451735993 Vit 15
+451735994 Vit 16
+452974914 Energize I
+453618049 Skill_Wizard_Blizzard 1
+453618050 Skill_Wizard_Blizzard 2
+453618051 Skill_Wizard_Blizzard 3
+453618052 Skill_Wizard_Blizzard 4
+453618053 Skill_Wizard_Blizzard 5
+453618054 Skill_Wizard_Blizzard 6
+453618055 Skill_Wizard_Blizzard 7
+453618056 Skill_Wizard_Blizzard 8
+454327875 StrDex XI Secondary
+473286831 DamageBonusPoison 6 Legendary
+475074945 MinDam 12 Secondary
+482816586 Dex 10 Secondary
+483241273 LightningD 12 Fast
+483706096 Vit 5 Secondary
+492148316 DamageVsElite 10
+492148317 DamageVsElite 11
+492148318 DamageVsElite 12
+493655914 WeaponHitFreeze1h 10
+493655915 WeaponHitFreeze1h 11
+493655916 WeaponHitFreeze1h 12
+493718975 ManaRegen 1
+493718976 ManaRegen 2
+493718977 ManaRegen 3
+493718978 ManaRegen 4
+493718979 ManaRegen 5
+493718980 ManaRegen 6
+493718981 ManaRegen 7
+493718982 ManaRegen 8
+493718983 ManaRegen 9
+494841835 WeaponHitFreeze2h 10
+494841836 WeaponHitFreeze2h 11
+494841837 WeaponHitFreeze2h 12
+497182037 DR 7 Secondary
+503144925 Vit 11 Secondary
+504326587 FireResist III
+504340744 FireResist VII
+504342922 FireResist XII
+506750119 ColdResist 0.2 Legendary
+508614870 DamageBonusHoly 9 Legendary
+509760234 Skill_DemonHunter_SpikeTrap 1
+509760235 Skill_DemonHunter_SpikeTrap 2
+509760236 Skill_DemonHunter_SpikeTrap 3
+509760237 Skill_DemonHunter_SpikeTrap 4
+509760238 Skill_DemonHunter_SpikeTrap 5
+509760239 Skill_DemonHunter_SpikeTrap 6
+509760240 Skill_DemonHunter_SpikeTrap 7
+509760241 Skill_DemonHunter_SpikeTrap 8
+512004502 HitLife 1
+512004503 HitLife 2
+512004504 HitLife 3
+512004505 HitLife 4
+512004506 HitLife 5
+512004507 HitLife 6
+512004508 HitLife 7
+512004509 HitLife 8
+512004510 HitLife 9
+515844156 Skill_DemonHunter_Strafe 1
+515844157 Skill_DemonHunter_Strafe 2
+515844158 Skill_DemonHunter_Strafe 3
+515844159 Skill_DemonHunter_Strafe 4
+515844160 Skill_DemonHunter_Strafe 5
+515844161 Skill_DemonHunter_Strafe 6
+515844162 Skill_DemonHunter_Strafe 7
+515844163 Skill_DemonHunter_Strafe 8
+517660244 Sockets Bracer I
+517660257 Sockets Bracer V
+522376666 LightningD 13 Fast
+537059990 Str 5 Secondary
+540310862 DamageBonusArcane 12 Legendary
+541935667 HitMana 1
+541935668 HitMana 2
+541935669 HitMana 3
+541935670 HitMana 4
+541935671 HitMana 5
+541935672 HitMana 6
+541935673 HitMana 7
+541935674 HitMana 8
+541935675 HitMana 9
+544496523 Bandage I
+547881087 Sockets Amulet III
+561512059 LightningD 14 Fast
+566148744 Str 16 Secondary
+570438045 StrVit I Secondary
+575975235 DamageBonusArcane 8 Legendary
+575982069 Skill_Wizard_SpectralBlade 1
+575982070 Skill_Wizard_SpectralBlade 2
+575982071 Skill_Wizard_SpectralBlade 3
+575982072 Skill_Wizard_SpectralBlade 4
+575982073 Skill_Wizard_SpectralBlade 5
+575982074 Skill_Wizard_SpectralBlade 6
+575982075 Skill_Wizard_SpectralBlade 7
+575982076 Skill_Wizard_SpectralBlade 8
+597015769 MaxDam 10
+597015770 MaxDam 11
+597015771 MaxDam 12
+597015772 MaxDam 13
+597015773 MaxDam 14
+599686152 DamageBonusFire 10 Legendary
+603032198 MaxDiscipline 10 Legendary
+615222192 HitStun 10
+615222193 HitStun 11
+615222194 HitStun 12
+616601423 StrVit III Secondary
+625826753 Empathy I
+628698817 HitLife 4 Secondary
+629174643 DamageReductionFire 10
+629174644 DamageReductionFire 11
+629174645 DamageReductionFire 12
+631220252 MinMaxDam 8 Secondary
+632878566 Bleed 11 Secondary
+634863971 DefenseMelee 10
+634863972 DefenseMelee 11
+634863973 DefenseMelee 12
+653210417 DamageBonusPoison 8 Legendary
+653297373 StrVit VIII
+654814437 IntVit IV Secondary
+654998531 MinDam 14 Secondary
+662740172 Dex 12 Secondary
+663629682 Vit 7 Secondary
+664607876 Gold V Secondary
+664916631 Skill_Monk_SweepingWind 1
+664916632 Skill_Monk_SweepingWind 2
+664916633 Skill_Monk_SweepingWind 3
+664916634 Skill_Monk_SweepingWind 4
+664916635 Skill_Monk_SweepingWind 5
+664916636 Skill_Monk_SweepingWind 6
+664916637 Skill_Monk_SweepingWind 7
+664916638 Skill_Monk_SweepingWind 8
+665210158 AllStats1H 2 Legendary
+669900069 MinMaxDam 10 Secondary
+672863894 Skill_WitchDoctor_WallofZombies 1
+672863895 Skill_WitchDoctor_WallofZombies 2
+672863896 Skill_WitchDoctor_WallofZombies 3
+672863897 Skill_WitchDoctor_WallofZombies 4
+672863898 Skill_WitchDoctor_WallofZombies 5
+672863899 Skill_WitchDoctor_WallofZombies 6
+672863900 Skill_WitchDoctor_WallofZombies 7
+672863901 Skill_WitchDoctor_WallofZombies 8
+677105623 DR 9 Secondary
+680767957 DamageVsMonsterTypeHuman 0.1 Legendary
+681586925 StrInt XI Secondary
+683068511 Vit 13 Secondary
+683475831 Thorns 1 Secondary
+684907330 Skill_Wizard_Disintegrate 1
+684907331 Skill_Wizard_Disintegrate 2
+684907332 Skill_Wizard_Disintegrate 3
+684907333 Skill_Wizard_Disintegrate 4
+684907334 Skill_Wizard_Disintegrate 5
+684907335 Skill_Wizard_Disintegrate 6
+684907336 Skill_Wizard_Disintegrate 7
+684907337 Skill_Wizard_Disintegrate 8
+696647397 Kings I
+696647410 Kings V
+699281021 MaxFury 1
+699281022 MaxFury 2
+699281023 MaxFury 3
+699281024 MaxFury 4
+699281025 MaxFury 5
+699281026 MaxFury 6
+699281027 MaxFury 7
+699281028 MaxFury 8
+699281029 MaxFury 9
+704007875 HitMana 10
+704007876 HitMana 11
+704007877 HitMana 12
+706051672 MaxFury 1 Legendary
+707257837 PoisonResist III
+707271994 PoisonResist VII
+707274172 PoisonResist XII
+710075636 Int 10 Secondary
+710473498 Superior Armor Def 1
+710473499 Superior Armor Def 2
+710473500 Superior Armor Def 3
+710473501 Superior Armor Def 4
+710473502 Superior Armor Def 5
+710473503 Superior Armor Def 6
+716983576 Str 7 Secondary
+719299173 DamageBonusCold 11 Legendary
+720915898 MF VI Secondary
+727316613 DamageVsElite 11 Secondary
+729819747 DamConversionHeal 1
+729819748 DamConversionHeal 2
+729819749 DamConversionHeal 3
+729819750 DamConversionHeal 4
+729819751 DamConversionHeal 5
+729819752 DamConversionHeal 6
+729819753 DamConversionHeal 7
+729819754 DamConversionHeal 8
+729819755 DamConversionHeal 9
+731258444 PrimaryAttribute_Str 10 Legendary
+731640128 CriticalD I Secondary
+747901660 StrVit VII Secondary
+764648506 Skill_WitchDoctor_ZombieCharger 1
+764648507 Skill_WitchDoctor_ZombieCharger 2
+764648508 Skill_WitchDoctor_ZombieCharger 3
+764648509 Skill_WitchDoctor_ZombieCharger 4
+764648510 Skill_WitchDoctor_ZombieCharger 5
+764648511 Skill_WitchDoctor_ZombieCharger 6
+764648512 Skill_WitchDoctor_ZombieCharger 7
+764648513 Skill_WitchDoctor_ZombieCharger 8
+767021757 StrDex III Secondary
+774304239 DexInt III Secondary
+779609738 DamageBonusFire 12 Legendary
+781591904 Skill_WitchDoctor_AcidCloud 1
+781591905 Skill_WitchDoctor_AcidCloud 2
+781591906 Skill_WitchDoctor_AcidCloud 3
+781591907 Skill_WitchDoctor_AcidCloud 4
+781591908 Skill_WitchDoctor_AcidCloud 5
+781591909 Skill_WitchDoctor_AcidCloud 6
+781591910 Skill_WitchDoctor_AcidCloud 7
+781591911 Skill_WitchDoctor_AcidCloud 8
+783288591 DamageVsMonsterTypeDemon 0.1 Legendary
+789853051 HitSlow 1
+789853052 HitSlow 2
+789853053 HitSlow 3
+789853054 HitSlow 4
+789853055 HitSlow 5
+789853056 HitSlow 6
+789853057 HitSlow 7
+789853058 HitSlow 8
+789853059 HitSlow 9
+792155943 MaxDam 10 Fast
+799546240 HitStun 1
+799546241 HitStun 2
+799546242 HitStun 3
+799546243 HitStun 4
+799546244 HitStun 5
+799546245 HitStun 6
+799546246 HitStun 7
+799546247 HitStun 8
+799546248 HitStun 9
+803429398 Bleed 2 Secondary
+803501883 Skill_Monk_FistsofThunder 1
+803501884 Skill_Monk_FistsofThunder 2
+803501885 Skill_Monk_FistsofThunder 3
+803501886 Skill_Monk_FistsofThunder 4
+803501887 Skill_Monk_FistsofThunder 5
+803501888 Skill_Monk_FistsofThunder 6
+803501889 Skill_Monk_FistsofThunder 7
+803501890 Skill_Monk_FistsofThunder 8
+806291157 DamageVsElite 2 Secondary
+808622403 HitLife 6 Secondary
+810509126 Haste 1
+810509127 Haste 2
+810509128 Haste 3
+810509129 Haste 4
+810509130 Haste 5
+810509131 Haste 6
+810509132 Haste 7
+810509133 Haste 8
+810509134 Haste 9
+823540435 DexInt IV Secondary
+831291336 MaxDam 11 Fast
+834738023 IntVit IX Secondary
+841030311 Skill_WitchDoctor_SpiritBarrage 1
+841030312 Skill_WitchDoctor_SpiritBarrage 2
+841030313 Skill_WitchDoctor_SpiritBarrage 3
+841030314 Skill_WitchDoctor_SpiritBarrage 4
+841030315 Skill_WitchDoctor_SpiritBarrage 5
+841030316 Skill_WitchDoctor_SpiritBarrage 6
+841030317 Skill_WitchDoctor_SpiritBarrage 7
+841030318 Skill_WitchDoctor_SpiritBarrage 8
+842663758 Dex 14 Secondary
+843553268 Vit 9 Secondary
+844531462 Gold X Secondary
+845133744 AllStats1H 4 Legendary
+847944519 MinDam 1
+847944520 MinDam 2
+847944521 MinDam 3
+847944522 MinDam 4
+847944523 MinDam 5
+847944524 MinDam 6
+847944525 MinDam 7
+847944526 MinDam 8
+847944527 MinDam 9
+849823655 MinMaxDam 12 Secondary
+851626427 DamageBonusPoison 11 Legendary
+854826512 WeaponHitKnockback1h 10
+854826513 WeaponHitKnockback1h 11
+854826514 WeaponHitKnockback1h 12
+856012433 WeaponHitKnockback2h 10
+856012434 WeaponHitKnockback2h 11
+856012435 WeaponHitKnockback2h 12
+862992097 Vit 15 Secondary
+863399417 Thorns 3 Secondary
+864939483 Life III
+864953640 Life VII
+865446356 DamageBonusCold 1 Legendary
+870426729 MaxDam 12 Fast
+885975258 MaxFury 3 Legendary
+889667027 StrVit VI Secondary
+889999222 Int 12 Secondary
+892117988 DamageVsMonsterTypeUndead 10
+892117989 DamageVsMonsterTypeUndead 11
+892117990 DamageVsMonsterTypeUndead 12
+892842485 KillLife 10 Secondary
+896907162 Str 9 Secondary
+898284862 CriticalChance I Secondary
+898321994 StrDex VII Secondary
+898909407 Thorns 10
+898909408 Thorns 11
+898909409 Thorns 12
+898909410 Thorns 13
+898909411 Thorns 14
+898909412 Thorns 15
+900666206 Superior Weapon Crit Dmg 1
+900666207 Superior Weapon Crit Dmg 2
+900666208 Superior Weapon Crit Dmg 3
+900666209 Superior Weapon Crit Dmg 4
+900666210 Superior Weapon Crit Dmg 5
+900666211 Superior Weapon Crit Dmg 6
+905604476 DexInt VII Secondary
+909562122 MaxDam 13 Fast
+911182030 PrimaryAttribute_Str 12 Legendary
+912923974 DamageBonusLightning 10 Legendary
+918698733 Sockets VIII
+918770607 Sockets XIII
+918784764 Sockets XVII
+929623096 DamageBonusFire 1 Legendary
+942725730 HitChill 1
+942725731 HitChill 2
+942725732 HitChill 3
+942725733 HitChill 4
+942725734 HitChill 5
+942725735 HitChill 6
+942725736 HitChill 7
+942725737 HitChill 8
+942725738 HitChill 9
+948697515 MaxDam 14 Fast
+949340468 MaxMana 1
+949340469 MaxMana 2
+949340470 MaxMana 3
+949340471 MaxMana 4
+949340472 MaxMana 5
+949340473 MaxMana 6
+949340474 MaxMana 7
+949340475 MaxMana 8
+949340476 MaxMana 9
+968632053 AllStats 2 Legendary
+976997430 Haste 10
+982068194 Regen 1
+982068195 Regen 2
+982068196 Regen 3
+982068197 Regen 4
+982068198 Regen 5
+982068199 Regen 6
+982068200 Regen 7
+982068201 Regen 8
+982068202 Regen 9
+983352984 Bleed 4 Secondary
+986214743 DamageVsElite 4 Secondary
+988545989 HitLife 8 Secondary
+1003464021 DexInt IX Secondary
+1009690905 IntVit III
+1009705062 IntVit VII
+1009707240 IntVit XII
+1015273642 Skill_Barbarian_SeismicSlam 1
+1015273643 Skill_Barbarian_SeismicSlam 2
+1015273644 Skill_Barbarian_SeismicSlam 3
+1015273645 Skill_Barbarian_SeismicSlam 4
+1015273646 Skill_Barbarian_SeismicSlam 5
+1015273647 Skill_Barbarian_SeismicSlam 6
+1015273648 Skill_Barbarian_SeismicSlam 7
+1015273649 Skill_Barbarian_SeismicSlam 8
+1020396948 StrDex II Secondary
+1022587344 Dex 16 Secondary
+1025057330 AllStats1H 6 Legendary
+1029747241 MinMaxDam 14 Secondary
+1032290215 CriticalChance II Secondary
+1033515571 StrDex VIII Secondary
+1043323003 Thorns 5 Secondary
+1045178066 HitChill 10
+1045178067 HitChill 11
+1045178068 HitChill 12
+1045369942 DamageBonusCold 3 Legendary
+1048744919 MaxDam 1 Fast
+1051283612 Sockets Chest I
+1051283625 Sockets Chest V
+1055553278 UnknownPrefix
+1065726212 AllStats 10 Legendary
+1065898844 MaxFury 5 Legendary
+1066725703 IntVit XI Secondary
+1069922808 Int 14 Secondary
+1072766071 KillLife 12 Secondary
+1077592132 PrimaryAttribute_Dex 1 Legendary
+1079074877 HitKnockback 1
+1079074878 HitKnockback 2
+1079074879 HitKnockback 3
+1079074880 HitKnockback 4
+1079074881 HitKnockback 5
+1079074882 HitKnockback 6
+1079074883 HitKnockback 7
+1079074884 HitKnockback 8
+1079074885 HitKnockback 9
+1087880312 MaxDam 2 Fast
+1091105616 PrimaryAttribute_Str 14 Legendary
+1091293510 Sockets Bracer III
+1092847560 DamageBonusLightning 12 Legendary
+1096136612 Skill_DemonHunter_ClusterArrow 1
+1096136613 Skill_DemonHunter_ClusterArrow 2
+1096136614 Skill_DemonHunter_ClusterArrow 3
+1096136615 Skill_DemonHunter_ClusterArrow 4
+1096136616 Skill_DemonHunter_ClusterArrow 5
+1096136617 Skill_DemonHunter_ClusterArrow 6
+1096136618 Skill_DemonHunter_ClusterArrow 7
+1096136619 Skill_DemonHunter_ClusterArrow 8
+1100381446 CriticalChance VIII Secondary
+1109546682 DamageBonusFire 3 Legendary
+1109856348 IntVit V Secondary
+1118583954 Life 0.1 Secondary Legendary
+1123372805 FurySetPoint I
+1127015705 MaxDam 3 Fast
+1134957745 MaxDam 1 Secondary
+1148555639 AllStats 4 Legendary
+1158568845 Skill_DemonHunter_RapidFire 1
+1158568846 Skill_DemonHunter_RapidFire 2
+1158568847 Skill_DemonHunter_RapidFire 3
+1158568848 Skill_DemonHunter_RapidFire 4
+1158568849 Skill_DemonHunter_RapidFire 5
+1158568850 Skill_DemonHunter_RapidFire 6
+1158568851 Skill_DemonHunter_RapidFire 7
+1158568852 Skill_DemonHunter_RapidFire 8
+1159499568 CriticalChance III Secondary
+1163276570 Bleed 6 Secondary
+1166138329 DamageVsElite 6 Secondary
+1166151098 MaxDam 4 Fast
+1170633957 Block 2 Secondary
+1176553157 UnknownSuffix
+1187697044 PrimaryAttribute_Dex 10 Legendary
+1191137447 StrVit III
+1191151604 StrVit VII
+1191153782 StrVit XII
+1201951408 IntVit II
+
+1201951421 IntVit IV
+1201951423 IntVit IX
+1201951837 IntVit VI
+1201951903 IntVit XI
+1204980916 AllStats1H 8 Legendary
+1205286491 MaxDam 5 Fast
+1214629294 PrimaryAttribute_Int 1 Legendary
+1216368989 CCReduction 0.1 Legendary
+1220289425 Experience I
+1220289438 Experience V
+1220289440 Experience X
+1223187383 HealthGlobeBonus 1
+1223187384 HealthGlobeBonus 2
+1223187385 HealthGlobeBonus 3
+1223187386 HealthGlobeBonus 4
+1223187387 HealthGlobeBonus 5
+1223187388 HealthGlobeBonus 6
+1223187389 HealthGlobeBonus 7
+1223187390 HealthGlobeBonus 8
+1223187391 HealthGlobeBonus 9
+1223246589 Thorns 7 Secondary
+1225293528 DamageBonusCold 5 Legendary
+1225692336 Superior Weapon MinDmg 1
+1225692337 Superior Weapon MinDmg 2
+1225692338 Superior Weapon MinDmg 3
+1225692339 Superior Weapon MinDmg 4
+1225692340 Superior Weapon MinDmg 5
+1225692341 Superior Weapon MinDmg 6
+1230869202 PhysicalResist III
+1230883359 PhysicalResist VII
+1230885537 PhysicalResist XII
+1235451701 DexInt XI Secondary
+1244421884 MaxDam 6 Fast
+1245649798 AllStats 12 Legendary
+1245822430 MaxFury 7 Legendary
+1247655998 StrInt II Secondary
+1249732621 HitKnockback 10
+1249732622 HitKnockback 11
+1249732623 HitKnockback 12
+1249846394 Int 16 Secondary
+1252689657 KillLife 14 Secondary
+1257515718 PrimaryAttribute_Dex 3 Legendary
+1263464420 MaxMana 10
+1264827566 Haste 1 Secondary
+1271029202 PrimaryAttribute_Str 16 Legendary
+1273837477 DexInt VIII Secondary
+1277398927 DamageReductionCold 10
+1277398928 DamageReductionCold 11
+1277398929 DamageReductionCold 12
+1278226092 MF VIII Secondary
+1279300849 MF V Secondary
+1282026029 DamageVsMonsterTypeUndead 0.1 Legendary
+1283538061 ColdResist VIII
+1283557277 MaxDam 7 Fast
+1285729876 Skill_Wizard_ExplosiveBlast 1
+1285729877 Skill_Wizard_ExplosiveBlast 2
+1285729878 Skill_Wizard_ExplosiveBlast 3
+1285729879 Skill_Wizard_ExplosiveBlast 4
+1285729880 Skill_Wizard_ExplosiveBlast 5
+1285729881 Skill_Wizard_ExplosiveBlast 6
+1285729882 Skill_Wizard_ExplosiveBlast 7
+1285729883 Skill_Wizard_ExplosiveBlast 8
+1289470268 DamageBonusFire 5 Legendary
+1289779934 IntVit X Secondary
+1290799805 CriticalChance VII Secondary
+1301356130 Indestructible 10
+1301356131 Indestructible 11
+1301356132 Indestructible 12
+1314881331 MaxDam 3 Secondary
+1318242209 PhysicalResist 0.1 Legendary
+1322692670 MaxDam 8 Fast
+1328479225 AllStats 6 Legendary
+1337580407 Skill_Wizard_Hydra 1
+1337580408 Skill_Wizard_Hydra 2
+1337580409 Skill_Wizard_Hydra 3
+1337580410 Skill_Wizard_Hydra 4
+1337580411 Skill_Wizard_Hydra 5
+1337580412 Skill_Wizard_Hydra 6
+1337580413 Skill_Wizard_Hydra 7
+1337580414 Skill_Wizard_Hydra 8
+1340940274 Indestructible 1
+1340940275 Indestructible 2
+1340940276 Indestructible 3
+1340940277 Indestructible 4
+1340940278 Indestructible 5
+1340940279 Indestructible 6
+1340940280 Indestructible 7
+1340940281 Indestructible 8
+1340940282 Indestructible 9
+1343200156 Bleed 8 Secondary
+1346061915 DamageVsElite 8 Secondary
+1349962976 PhysicalResist I
+1349962989 PhysicalResist V
+1349962991 PhysicalResist X
+1350281777 HolyD 1
+1350281778 HolyD 2
+1350281779 HolyD 3
+1350281780 HolyD 4
+1350281781 HolyD 5
+1350281782 HolyD 6
+1350281783 HolyD 7
+1350281784 HolyD 8
+1350281785 HolyD 9
+1350557543 Block 4 Secondary
+1356608766 Sockets Belt III
+1361828063 MaxDam 9 Fast
+1362861791 DR 10 Secondary
+1364262573 ArcaneD 1 Fast
+1367620630 PrimaryAttribute_Dex 12 Legendary
+1384928025 MaxArcanePower 10 Legendary
+1394552880 PrimaryAttribute_Int 3 Legendary
+1396292575 CCReduction 0.3 Legendary
+1399322748 PoisonResist 0.1 Legendary
+1399710566 KillLife 2 Secondary
+1402139625 FireD 1 Fast
+1403170175 Thorns 9 Secondary
+1403397966 ArcaneD 2 Fast
+1405217114 DamageBonusCold 7 Legendary
+1411990405 ColdD 1 Fast
+1414956094 PrimaryAttribute_Int 10 Legendary
+1420394115 CriticalD 0.3 Secondary Legendary
+1425573384 AllStats 14 Legendary
+1425746016 MaxFury 9 Legendary
+1432950218 FireResist 0.1 Legendary
+1437439304 PrimaryAttribute_Dex 5 Legendary
+1441275018 FireD 2 Fast
+1441375939 Defense I
+1441375952 Defense V
+1442533359 ArcaneD 3 Fast
+1443531803 DexVit VI Secondary
+1444751152 Haste 3 Secondary
+1446615034 WeaponHitFreeze1h 1
+1446615035 WeaponHitFreeze1h 2
+1446615036 WeaponHitFreeze1h 3
+1446615037 WeaponHitFreeze1h 4
+1446615038 WeaponHitFreeze1h 5
+1446615039 WeaponHitFreeze1h 6
+1446615040 WeaponHitFreeze1h 7
+1446615041 WeaponHitFreeze1h 8
+1446615042 WeaponHitFreeze1h 9
+1446650971 WeaponHitFreeze2h 1
+1446650972 WeaponHitFreeze2h 2
+1446650973 WeaponHitFreeze2h 3
+1446650974 WeaponHitFreeze2h 4
+1446650975 WeaponHitFreeze2h 5
+1446650976 WeaponHitFreeze2h 6
+1446650977 WeaponHitFreeze2h 7
+1446650978 WeaponHitFreeze2h 8
+1446650979 WeaponHitFreeze2h 9
+1446938386 FireResist II
+1446938399 FireResist IV
+1446938401 FireResist IX
+1446938815 FireResist VI
+1446938881 FireResist XI
+1447984474 CriticalD 0.2 Legendary
+1448701309 DexInt VIII
+1451125798 ColdD 2 Fast
+1459224435 MF X Secondary
+1459807555 Kings VI Secondary
+1469393854 DamageBonusFire 7 Legendary
+1476560065 CriticalD II
+1476560078 CriticalD IV
+1476560080 CriticalD IX
+1476560494 CriticalD VI
+1480410411 FireD 3 Fast
+1481668752 ArcaneD 4 Fast
+1481841994 CriticalD III
+1481856151 CriticalD VII
+1490261191 ColdD 3 Fast
+1494804917 MaxDam 5 Secondary
+1497318476 ResistFreeze 1
+1498165795 PhysicalResist 0.3 Legendary
+1500725738 Life 0.1 Legendary
+1508402811 AllStats 8 Legendary
+1514527726 Kings II
+1514527739 Kings IV
+1514528155 Kings VI
+1519545804 FireD 4 Fast
+1520804145 ArcaneD 5 Fast
+1526210135 WeaponHitFear1h 1
+1526210136 WeaponHitFear1h 2
+1526210137 WeaponHitFear1h 3
+1526210138 WeaponHitFear1h 4
+1526210139 WeaponHitFear1h 5
+1526210140 WeaponHitFear1h 6
+1526210141 WeaponHitFear1h 7
+1526210142 WeaponHitFear1h 8
+1526210143 WeaponHitFear1h 9
+1526246072 WeaponHitFear2h 1
+1526246073 WeaponHitFear2h 2
+1526246074 WeaponHitFear2h 3
+1526246075 WeaponHitFear2h 4
+1526246076 WeaponHitFear2h 5
+1526246077 WeaponHitFear2h 6
+1526246078 WeaponHitFear2h 7
+1526246079 WeaponHitFear2h 8
+1526246080 WeaponHitFear2h 9
+1527600542 CriticalChance VIII
+1528764650 HatredRegen 10
+1529396584 ColdD 4 Fast
+1530481129 Block 6 Secondary
+1531537038 ArcaneResist 0.1 Legendary
+1534301774 WeaponHitSlow1h 10
+1534301775 WeaponHitSlow1h 11
+1534301776 WeaponHitSlow1h 12
+1535487695 WeaponHitSlow2h 10
+1535487696 WeaponHitSlow2h 11
+1535487697 WeaponHitSlow2h 12
+1542785377 DR 12 Secondary
+1547544216 PrimaryAttribute_Dex 14 Legendary
+1555987111 HitFreeze 10
+1555987112 HitFreeze 11
+1555987113 HitFreeze 12
+1558681197 FireD 5 Fast
+1559939538 ArcaneD 6 Fast
+1567189505 MaxDam 10 Secondary
+1568531977 ColdD 5 Fast
+1574476466 PrimaryAttribute_Int 5 Legendary
+1579246334 PoisonResist 0.3 Legendary
+1579634152 KillLife 4 Secondary
+1581623210 Black Market I
+1585140700 DamageBonusCold 9 Legendary
+1589045967 Thorns 1
+1589045968 Thorns 2
+1589045969 Thorns 3
+1589045970 Thorns 4
+1589045971 Thorns 5
+1589045972 Thorns 6
+1589045973 Thorns 7
+1589045974 Thorns 8
+1589045975 Thorns 9
+1594879680 PrimaryAttribute_Int 12 Legendary
+1597816590 FireD 6 Fast
+1599074931 ArcaneD 7 Fast
+1599105353 PhysicalResist II
+1599105366 PhysicalResist IV
+1599105368 PhysicalResist IX
+1599105782 PhysicalResist VI
+1599105848 PhysicalResist XI
+1601437261 MaxFury 10
+1605496970 AllStats 16 Legendary
+1606106763 StrDex VIII
+1607667370 ColdD 6 Fast
+1609625729 HolyD 10
+1609625730 HolyD 11
+1609625731 HolyD 12
+1609625732 HolyD 13
+1609625733 HolyD 14
+1611207006 DamageBonusHoly 10 Legendary
+1612873804 FireResist 0.3 Legendary
+1614845466 Experience II
+1614845479 Experience IV
+1614845481 Experience IX
+1614845895 Experience VI
+1614845961 Experience XI
+1616088365 MinMaxDam 1
+1616088366 MinMaxDam 2
+1616088367 MinMaxDam 3
+1616088368 MinMaxDam 4
+1616088369 MinMaxDam 5
+1616088370 MinMaxDam 6
+1616088371 MinMaxDam 7
+1616088372 MinMaxDam 8
+1616088373 MinMaxDam 9
+1617013231 MinDam 1 Secondary
+1617362890 PrimaryAttribute_Dex 7 Legendary
+1620834582 DamageVsMonsterTypeDemon 1
+1620834583 DamageVsMonsterTypeDemon 2
+1620834584 DamageVsMonsterTypeDemon 3
+1620834585 DamageVsMonsterTypeDemon 4
+1620834586 DamageVsMonsterTypeDemon 5
+1620834587 DamageVsMonsterTypeDemon 6
+1620834588 DamageVsMonsterTypeDemon 7
+1620834589 DamageVsMonsterTypeDemon 8
+1620834590 DamageVsMonsterTypeDemon 9
+1624674738 Haste 5 Secondary
+1632794776 IntVit II Secondary
+1636951983 FireD 7 Fast
+1638210324 ArcaneD 8 Fast
+1642588215 Gold I Secondary
+1646802763 ColdD 7 Fast
+1647586587 Dex 2 Secondary
+1649317440 DamageBonusFire 9 Legendary
+1656612832 CriticalD VIII
+1674728503 MaxDam 7 Secondary
+1676087376 FireD 8 Fast
+1677345717 ArcaneD 9 Fast
+1680649324 Life 0.3 Legendary
+1685938156 ColdD 8 Fast
+1687764647 LightningD 1 Fast
+1691963212 DamReductionVsElite 1
+1691963213 DamReductionVsElite 2
+1691963214 DamReductionVsElite 3
+1691963215 DamReductionVsElite 4
+1691963216 DamReductionVsElite 5
+1691963217 DamReductionVsElite 6
+1691963218 DamReductionVsElite 7
+1691963219 DamReductionVsElite 8
+1691963220 DamReductionVsElite 9
+1692679445 WeaponHitChill1h 10
+1692679446 WeaponHitChill1h 11
+1692679447 WeaponHitChill1h 12
+1693865366 WeaponHitChill2h 10
+1693865367 WeaponHitChill2h 11
+1693865368 WeaponHitChill2h 12
+1710404715 Block 8 Secondary
+1710478023 HealthGlobeBonus 10
+1710478024 HealthGlobeBonus 11
+1710478025 HealthGlobeBonus 12
+1711460624 ArcaneResist 0.3 Legendary
+1714269847 DexVit III Secondary
+1715222769 FireD 9 Fast
+1722708963 DR 14 Secondary
+1725073549 ColdD 9 Fast
+1726900040 LightningD 2 Fast
+1727467802 PrimaryAttribute_Dex 16 Legendary
+1734321449 MaxArcanePower 1 Legendary
+1735514167 MaxDiscipline 2 Legendary
+1740200688 Protection I
+1747113091 MaxDam 12 Secondary
+1750248843 Regen 2 Secondary
+1750292931 Experience III
+1750307088 Experience VII
+1750309266 Experience XII
+1754400052 PrimaryAttribute_Int 7 Legendary
+1759557738 KillLife 6 Secondary
+1766035433 LightningD 3 Fast
+1772014126 ColdResist II
+1772014139 ColdResist IV
+1772014141 ColdResist IX
+1772014555 ColdResist VI
+1772014621 ColdResist XI
+1774803266 PrimaryAttribute_Int 14 Legendary
+1777599999 StrInt III
+1777614156 StrInt VII
+1777616334 StrInt XII
+1784623749 Int 2 Secondary
+1790633672 Thorns 11 Secondary
+1791130592 DamageBonusHoly 12 Legendary
+1791308541 MinMaxDam 10
+1791308542 MinMaxDam 11
+1791308543 MinMaxDam 12
+1791308544 MinMaxDam 13
+1791308545 MinMaxDam 14
+1791554649 LightningD 1
+1791554650 LightningD 2
+1791554651 LightningD 3
+1791554652 LightningD 4
+1791554653 LightningD 5
+1791554654 LightningD 6
+1791554655 LightningD 7
+1791554656 LightningD 8
+1791554657 LightningD 9
+1796936817 MinDam 3 Secondary
+1797286476 PrimaryAttribute_Dex 9 Legendary
+1801520774 DexInt II Secondary
+1803327510 Skill_Wizard_MagicMissile 1
+1803327511 Skill_Wizard_MagicMissile 2
+1803327512 Skill_Wizard_MagicMissile 3
+1803327513 Skill_Wizard_MagicMissile 4
+1803327514 Skill_Wizard_MagicMissile 5
+1803327515 Skill_Wizard_MagicMissile 6
+1803327516 Skill_Wizard_MagicMissile 7
+1803327517 Skill_Wizard_MagicMissile 8
+1804598324 Haste 7 Secondary
+1805170826 LightningD 4 Fast
+1811763752 MaxFury 10 Legendary
+1813149179 Regen 11 Secondary
+1814192943 HitLife 11 Secondary
+1827510173 Dex 4 Secondary
+1844306219 LightningD 5 Fast
+1844663804 PrimaryAttribute_Str 1 Legendary
+1845570084 DexVit VII Secondary
+1853617543 Life VI Secondary
+1854652089 MaxDam 9 Secondary
+1865139427 PoisonResist VIII
+1875055351 DamageBonusLightning 2 Legendary
+1880183710 AllStats1H 11 Legendary
+1883441612 LightningD 6 Fast
+1902632549 DR 16 Secondary
+1905952666 Damage III
+1905966823 Damage VII
+1909249930 WeaponHitImmobilize1h 1
+1909249931 WeaponHitImmobilize1h 2
+1909249932 WeaponHitImmobilize1h 3
+1909249933 WeaponHitImmobilize1h 4
+1909249934 WeaponHitImmobilize1h 5
+1909249935 WeaponHitImmobilize1h 6
+1909249936 WeaponHitImmobilize1h 7
+1909249937 WeaponHitImmobilize1h 8
+1909249938 WeaponHitImmobilize1h 9
+1909285867 WeaponHitImmobilize2h 1
+1909285868 WeaponHitImmobilize2h 2
+1909285869 WeaponHitImmobilize2h 3
+1909285870 WeaponHitImmobilize2h 4
+1909285871 WeaponHitImmobilize2h 5
+1909285872 WeaponHitImmobilize2h 6
+1909285873 WeaponHitImmobilize2h 7
+1909285874 WeaponHitImmobilize2h 8
+1909285875 WeaponHitImmobilize2h 9
+1910884269 Gold VI Secondary
+1913589057 Gold III
+1913603214 Gold VII
+1914245035 MaxArcanePower 3 Legendary
+1914368470 CriticalD VI Secondary
+1915437753 MaxDiscipline 4 Legendary
+1918138219 PoisonD 10 Fast
+1922577005 LightningD 7 Fast
+1925559161 Experience VIII
+1927036677 MaxDam 14 Secondary
+1930172429 Regen 4 Secondary
+1934323638 PrimaryAttribute_Int 9 Legendary
+1939481324 KillLife 8 Secondary
+1947933702 DamageVsMonsterTypeDemon 10
+1947933703 DamageVsMonsterTypeDemon 11
+1947933704 DamageVsMonsterTypeDemon 12
+1951515674 MF IV Secondary
+1951651227 MaxDiscipline 1
+1951651228 MaxDiscipline 2
+1951651229 MaxDiscipline 3
+1951651230 MaxDiscipline 4
+1951651231 MaxDiscipline 5
+1951651232 MaxDiscipline 6
+1951651233 MaxDiscipline 7
+1951651234 MaxDiscipline 8
+1951651235 MaxDiscipline 9
+1954726852 PrimaryAttribute_Int 16 Legendary
+1957273612 PoisonD 11 Fast
+1961712398 LightningD 8 Fast
+1964445288 PhysicalResist VIII
+1964547335 Int 4 Secondary
+1970557258 Thorns 13 Secondary
+1975614494 ResistAll 0.2 Legendary
+1976860403 MinDam 5 Secondary
+1978468146 Life II
+1978468159 Life IV
+1978468161 Life IX
+1978468575 Life VI
+1978556068 LifeS 1
+1978556069 LifeS 2
+1978556070 LifeS 3
+1978556071 LifeS 4
+1978556072 LifeS 5
+1978556073 LifeS 6
+1978556074 LifeS 7
+1986083891 WeaponHitStun1h 10
+1986083892 WeaponHitStun1h 11
+1986083893 WeaponHitStun1h 12
+1987269812 WeaponHitStun2h 10
+1987269813 WeaponHitStun2h 11
+1987269814 WeaponHitStun2h 12
+1993072765 Regen 13 Secondary
+1994116529 HitLife 13 Secondary
+1995338101 Defense III
+1995352258 Defense VII
+1996409005 PoisonD 12 Fast
+2000847791 LightningD 9 Fast
+2007433759 Dex 6 Secondary
+2024587390 PrimaryAttribute_Str 3 Legendary
+2026365967 DamageBonusHoly 2 Legendary
+2035544398 PoisonD 13 Fast
+2044719016 Damage I
+2044719029 Damage V
+2048824082 Multishot I
+2054978937 DamageBonusLightning 4 Legendary
+2060107296 AllStats1H 13 Legendary
+2064982189 Bleed 1
+2064982190 Bleed 2
+2064982191 Bleed 3
+2064982192 Bleed 4
+2064982193 Bleed 5
+2064982194 Bleed 6
+2064982195 Bleed 7
+2064982196 Bleed 8
+2064982197 Bleed 9
+2074679791 PoisonD 14 Fast
+2076777148 Block 1
+2076777149 Block 2
+2076777150 Block 3
+2076777151 Block 4
+2076777152 Block 5
+2076777153 Block 6
+2076777154 Block 7
+2076777155 Block 8
+2076777156 Block 9
+2082556135 DR 18 Secondary
+2082594650 Kings V Secondary
+2087836687 IntVit I Secondary
+2093726332 DamageBonusArcane 1 Legendary
+2094168621 MaxArcanePower 5 Legendary
+2094528286 Life V Secondary
+2095361339 MaxDiscipline 6 Legendary
+2104949384 Tribute I
+2110096015 Regen 6 Secondary
+2117266942 MaxArcanePower 10
+2120266803 StrVit IV Secondary
+2124069787 PoisonD 1 Fast
+2128734586 HatredRegen 1
+2128734587 HatredRegen 2
+2128734588 HatredRegen 3
+2128734589 HatredRegen 4
+2128734590 HatredRegen 5
+2128734591 HatredRegen 6
+2128734592 HatredRegen 7
+2128734593 HatredRegen 8
+2128734594 HatredRegen 9
+2130597481 Damage 0.1 Legendary
+2131439260 MF IX Secondary
+2132551488 Skill_Barbarian_Cleave 1
+2132551489 Skill_Barbarian_Cleave 2
+2132551490 Skill_Barbarian_Cleave 3
+2132551491 Skill_Barbarian_Cleave 4
+2132551492 Skill_Barbarian_Cleave 5
+2132551493 Skill_Barbarian_Cleave 6
+2132551494 Skill_Barbarian_Cleave 7
+2132551495 Skill_Barbarian_Cleave 8
+2133701701 WeaponHitChill1h 1
+2133701702 WeaponHitChill1h 2
+2133701703 WeaponHitChill1h 3
+2133701704 WeaponHitChill1h 4
+2133701705 WeaponHitChill1h 5
+2133701706 WeaponHitChill1h 6
+2133701707 WeaponHitChill1h 7
+2133701708 WeaponHitChill1h 8
+2133701709 WeaponHitChill1h 9
+2133737638 WeaponHitChill2h 1
+2133737639 WeaponHitChill2h 2
+2133737640 WeaponHitChill2h 3
+2133737641 WeaponHitChill2h 4
+2133737642 WeaponHitChill2h 5
+2133737643 WeaponHitChill2h 6
+2133737644 WeaponHitChill2h 7
+2133737645 WeaponHitChill2h 8
+2133737646 WeaponHitChill2h 9
+2134703545 Life VIII Secondary
+2144470921 Int 6 Secondary
+2145728258 DamageVsMonsterTypeBeast 10
+2145728259 DamageVsMonsterTypeBeast 11
+2145728260 DamageVsMonsterTypeBeast 12
